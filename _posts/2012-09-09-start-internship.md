@@ -1,9 +1,10 @@
 ---
+
 layout: post
 date: 2012-09-09
-title: 嗯，实习了
-tags: life,interview
-comments: true
+title: 实习了
+tags: [life, interview]
+
 ---
 
 明天就要去和同学合租了，准确的说是今天，因为现在已经过了零点。12点之前就躺下的我，刚刚却一直在床上翻来覆去谁不着。大概是因为明天就要去实习，很是兴奋，心里也不断乱回想着一些事。
