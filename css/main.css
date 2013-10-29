@@ -189,3 +189,7 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+.pagination span {
+  font-size: 80%;
+}
