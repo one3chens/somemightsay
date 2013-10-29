@@ -1,9 +1,9 @@
 ---
 
 layout: post
-Date: 2013-03-24
-title: 那些在我硬盘里的电影
-Tags: [movies]
+date: 2013-03-24 01:52
+title: 躺在硬盘里的电影
+tags: [movies, download]
 
 ---
 
@@ -13,7 +13,7 @@ Tags: [movies]
 
 跑到淘宝上去查之前购买硬盘的记录，是11年五月份买的，比我现在印象中要早一些，两年前2T的西数绿盘也就￥500出头，现在京东和亚马逊上都是￥599，西数都还没有从上次的泰国洪水缓过来么。
 
-{{more}}
+<!-- more -->
 
 ## 电影们
 
@@ -29,8 +29,6 @@ Tags: [movies]
 大概有400+部电影，都是我从大学开始保存下来的，里面的电影多为720P的，有些低质量的是因为实在找不到720P及以上的资源，而又非常想保存的。有些1080的应该是从别人那转来的，要不是就是很喜欢的电影，或者是即使是1080P大小也还可以接受的电影
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/movie_hard_disk1.jpg) 
-
----
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/movie_disk.jpg)
 
@@ -48,7 +46,7 @@ Tags: [movies]
 
 > 窗户、镜子和梦。
 
----
+<!-- more -->
 
 > yolfilm：
 
