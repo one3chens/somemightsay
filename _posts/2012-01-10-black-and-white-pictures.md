@@ -1,9 +1,10 @@
----
+--
+
 layout: post
 date: 2012-01-10
 title: 为学洗黑白照片做准备
-tags: photo,dad
-comments: true
+tags: [photo, dad]
+
 ---
 
 之前听妈说，几十年前爸洗照片的那一套工具都还在家里面保存到的，突然来了兴趣。跟爸说好考完试就教我洗。
@@ -26,7 +27,7 @@ comments: true
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/MG_0050.jpg)
 
----
+<!-- more -->
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/MG_0028.jpg)
 
@@ -34,7 +35,7 @@ comments: true
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/MG_0055.jpg)
 
----
+<!-- more -->
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/MG_0057.jpg)
 
@@ -62,7 +63,7 @@ Poison Not To Be Taken
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/MG_0130.jpg) 
 
----
+<!-- more -->
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/MG_0134.jpg) 
 
