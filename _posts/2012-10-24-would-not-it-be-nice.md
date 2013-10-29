@@ -1,9 +1,10 @@
 ---
+
 layout: post
-date: 2012-10-24
+date: 2012-10-24 02:07
 title: Wouldn't it be nice!
-tags: life,zhihu,movie,scent of a woman,al pacino
-comments: true
+tags: [life, zhihu, movie, scent of a woman, al pacino]
+
 ---
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Wouldnt_it_be_nice.jpg)
@@ -49,7 +50,7 @@ comments: true
 
 <!-- more -->
 
-#### 金球奖(Golden Globe)  1993Best Motion Picture – Drama
+#### 金球奖(Golden Globe)  1993
 
 > 最佳编剧 博·古德曼
 
@@ -124,4 +125,4 @@ comments: true
 
 写到现在发现自己晚上还是能干许多事情的，真不知道上学期间是怎么浪费的。现在已经又要一点半了，前天的这个时候，我还在床上翻来覆去睡不着呢，不知怎么的这周连续两天失眠了。所以今天突然断网了，我把一本书的最后部分看完了，看了不特别好看的电影，写了篇文章。这多好啊，感觉比我一天做的事还多，难道是因为记录下来的原因么？
 
-#Wouldn’t it be nice！
+#Wouldn't it be nice！

@@ -1,14 +1,15 @@
 ---
+
 layout: post
-Date: 2012-10-19
-title: "Delphi学习的第一个月"
-comments: true
-tags: Delphi,code,study,internship
+date: 2012-10-19 02:11
+title: Delphi学习的第一个月
+tags: [Delphi, code, study, internship]
+
 ---
 
-9月13号开始的实习，今天10月18号了，除开国庆8天的长假，在公司实习也将近要一个月了，只到今天才有点自己的空闲时间，想写点东西，怕时间久了，忘了。
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/cropped-delphi.jpg)
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Delphi.png)
+9月13号开始的实习，今天10月18号了，除开国庆8天的长假，在公司实习也将近要一个月了，只到今天才有点自己的空闲时间，想写点东西，怕时间久了，忘了。
 
 <!-- more -->
 
@@ -23,32 +24,32 @@ tags: Delphi,code,study,internship
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Delphi_s_short.png)
 
-1. 赋值语句由 = 变成了， := 。而 = 则表示是相等的意思，两边是布尔值。最开始写代码的时候哈有点适应不过来。
+1. 赋值语句由 `=` 变成了， `:=` 。而 `=` 则表示是相等的意思，两边是布尔值。最开始写代码的时候哈有点适应不过来。
 
-2. if…else 语句，在 else 前面的代码，不能用分号结尾，好奇怪的规定，开始没有仔细看书的时候还不知道有这样的一个规定，也折腾了一下才了解到的。
+2. `if…else` 语句，在 `else` 前面的代码，不能用分号结尾，好奇怪的规定，开始没有仔细看书的时候还不知道有这样的一个规定，也折腾了一下才了解到的。
 
-3. 函数的返回值，在函数里面设置的时候，不回跳出当前的函数，而是继续向下执行，直到函数的最后一个 End 或者期间有 Exit; 退出。 
+3. 函数的返回值，在函数里面设置的时候，不回跳出当前的函数，而是继续向下执行，直到函数的最后一个 `End` 或者期间有 `Exit` 退出。 
 
 来个例子
 
-```
-	function HKEYtoString(rootKey: HKEY): string;
-	begin
-	  Result := '';
-	  if rootKey = HKEY_CLASSES_ROOT then
-	    Result := 'HKEY_CLASSES_ROOT'
-	  else if rootKey = HKEY_CURRENT_USER then
-	    Result := 'HKEY_CURRENT_USER'
-	  else if rootKey = HKEY_LOCAL_MACHINE then
-	    Result := 'HKEY_LOCAL_MACHINE'
-	  else if rootKey = HKEY_USERS then
-	    Result := 'HKEY_USERS'
-	  else if rootKey = HKEY_CURRENT_CONFIG then
-	    Result := 'HKEY_CURRENT_CONFIG'
-	  else
-	    Result := '';
-	end;
-```
+{% highlight delphi %}
+function HKEYtoString(rootKey: HKEY): string;
+begin
+  Result := '';
+  if rootKey = HKEY_CLASSES_ROOT then
+    Result := 'HKEY_CLASSES_ROOT'
+  else if rootKey = HKEY_CURRENT_USER then
+    Result := 'HKEY_CURRENT_USER'
+  else if rootKey = HKEY_LOCAL_MACHINE then
+    Result := 'HKEY_LOCAL_MACHINE'
+  else if rootKey = HKEY_USERS then
+    Result := 'HKEY_USERS'
+  else if rootKey = HKEY_CURRENT_CONFIG then
+    Result := 'HKEY_CURRENT_CONFIG'
+  else
+    Result := '';
+end;
+{% endhighlight %}
 
 其他的暂时还没有发现特别让我纠结的语法，和之间接触过的语言都大同小异。
 
@@ -62,15 +63,7 @@ tags: Delphi,code,study,internship
 
 第一个星期的节奏大概是这样子的：
 
-```
-  每天7点半起来 –> 赶109公交 –> 两站到公司附近 –> 711买早饭吃 
-  /*
-  在遍历了711里面所有包子过后，选择酱肉包作为默认选项，其它默认的选项包括卤蛋一枚，豆浆一杯，再加上随机要一样关东煮。后来因为泓子给买了一件牛奶过后，一盒牛奶替换豆浆变成了默认选项。
-  */ 
-  –> 到公司 –> 开始写代码 –> 11:30吃午饭 –> 回公司继续写代码 
-  –> 下班晚饭后坐公交回租的地方 –> 扒在床上休息到8点 –> 继续爬起来写代码
-  –> 11点过后洗簌躺下(这几天时间退后到了12点过后) 
-```	
+`每天7点半起来` –> `赶109公交` –> `两站到公司附近` –> `711买早饭吃` –> `到公司` –> `开始写代码` –> `11:30吃午饭` –> `回公司继续写代码` –> `下班晚饭后坐公交回租的地方` –> `扒在床上休息到8点` –> `继续爬起来写代码–`> `11点过后洗簌躺下`
 
 就这样，渐渐熟悉了语言和开发环境，也熟悉了上下班的时间，熟悉公司的环境。最开始的几天，因为强度对比学校里面逍遥自在的生活提高了很多，眼睛有点受不了，每天下班过后，都有点睁不开眼睛，不是因为困，而是眼睛太累，太干涩了。后来泓子给买了瓶眼药水才有点缓解。
 

@@ -1,3 +1,4 @@
 name: Some Might Say
 markdown: redcarpet
 pygments: true
+paginate: 20
