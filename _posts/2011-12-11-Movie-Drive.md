@@ -1,9 +1,10 @@
 ---
+
 layout: post
 date: 2011-12-11
-title: drive 亡命驾驶
-tags: movie,ryan gosling,carey mulligan
-comments: true
+title: Drive 亡命驾驶
+tags: [movie, ryan-gosling, carey-mulligan]
+
 ---
 
 下午到寝室，时间还早，看到射手上也有靠谱的字幕，就把《Drive》看了。
@@ -21,7 +22,7 @@ comments: true
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Drive.2011.720p20111211-2037062.jpg)
 
-另一个眼前一亮的主演就是[Carey Mulligan](http://people.mtime.com/person/1108411/)，第一眼看到的时候就感觉很眼熟。看完电影后才去查资料才发现，看了她很多部电影了，像[《Never Let Me Go》](http://movie.mtime.com/100674/)、[《An Education》](http://movie.mtime.com/77204/)真心不错。 
+另一个眼前一亮的主演就是[Mulligan](http://people.mtime.com/person/1108411/)，第一眼看到的时候就感觉很眼熟。看完电影后才去查资料才发现，看了她很多部电影了，像[《Never Let Me Go》](http://movie.mtime.com/100674/)、[《An Education》](http://movie.mtime.com/77204/)真心不错。 
 
 ## 内容
 开始还很有期待后面的故事，结果就是一个冷言少语的，生活无趣的爷们，碰到一个一见钟情的妹子，产生了感情。然后牵扯出很多事来，最后依次打败了Boss。
