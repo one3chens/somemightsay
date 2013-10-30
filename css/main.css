@@ -27,7 +27,7 @@ body {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #336699; text-decoration: none; }
+a         { color: #336699; text-decoration: none; transition: 0.2s;}
 a:hover   { color: #18afe0; text-decoration: none; }
 /*a:visited { color: #2a6496; }*/
 
@@ -81,11 +81,13 @@ ul.posts span {
 
 .site .header h1.title a {
   font-size: 150%;
-  color: #a00;
+  /*color: #a00;*/
+  color: #b22222;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  /*color: #000;*/
+  color: #c00;
 }
 
 .site .header a.extra {
