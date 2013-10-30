@@ -81,12 +81,11 @@ ul.posts span {
 
 .site .header h1.title a {
   font-size: 150%;
-  /*color: #a00;*/
-  color: #b22222;
+  color: #b00;
+  transition: 0.2s;
 }
 
 .site .header h1.title a:hover {
-  /*color: #000;*/
   color: #c00;
 }
 
