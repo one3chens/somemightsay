@@ -53,6 +53,7 @@ ul.posts span {
 
 #home h1{
   font-size: 140%;
+  font-family: 'Montaga', serif;
 }
 
 /*****************************************************************************/
@@ -83,6 +84,7 @@ ul.posts span {
   font-size: 150%;
   color: #b00;
   transition: 0.2s;
+  font-family: 'Montaga', serif;
 }
 
 .site .header h1.title a:hover {
@@ -99,6 +101,8 @@ ul.posts span {
 }
 
 .site .meta {
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
   color: #aaa;
 }
 
@@ -108,6 +112,10 @@ ul.posts span {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+}
+
+.site .contact p {
+  font-family: 'Consolas', serif;
 }
 
 .site .footer .contact {
@@ -137,9 +145,9 @@ ul.posts span {
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  border-radius: 3px;
-  background-color: #f8f8f8;
+  /*border: 1px solid #ddd;*/
+  /*border-radius: 3px;*/
+  /*background-color: #f8f8f8;*/
   padding: 0 .4em;
 }
 
@@ -147,7 +155,7 @@ ul.posts span {
   margin-left: 1.35em;
 }
 
-.post code {
+.post p code {
   /* 
   border: 1px solid #ddd;
   background-color: #eef;
@@ -155,9 +163,20 @@ ul.posts span {
   */
   margin: 0 2px;
   padding: 0px 5px;
-  border: 1px solid #ddd;
-  background-color: #f8f8f8;
+  /*border: 1.5px solid #ccc;*/
+  background-color: #eee;
+  border-radius: 2px;
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
+
+.highlight {
+  margin: 0 5px;
+  padding: 5px 5px 5px 5px;
   border-radius: 3px;
+}
+
+.highlight span{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 }
 
 .post img {
@@ -173,12 +192,12 @@ ul.posts span {
   border-left: 0.5em #EEE solid;
 }
 
-.post pre code {
+/*.post pre code {
   border: none;
-/*  border: 1px solid #ddd;
+  border: 1px solid #ddd;
   background-color: #ddd;
-  /*padding: 0 .2em;*/*/
-}
+  padding: 0 .2em;
+}*/
 
 /* terminal */
 .post pre.terminal {
