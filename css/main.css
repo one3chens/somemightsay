@@ -27,9 +27,9 @@ body {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #259; text-decoration: none; }
-a:hover   { color: #259; text-decoration: underline; }
-a:visited { color: #259; }
+a         { color: #336699; text-decoration: none; }
+a:hover   { color: #18afe0; text-decoration: none; }
+/*a:visited { color: #2a6496; }*/
 
 /*****************************************************************************/
 /*
