@@ -66,13 +66,13 @@ tags: [life, zhihu, movie, scent of a woman, al pacino]
 
 <!-- more -->
 
-> Lt. Col. Frank Slade: [Frank plans to kill himself and Charlie as well but hesitates] You don’t wanna die.
+> Lt. Col. Frank Slade: [Frank plans to kill himself and Charlie as well but hesitates] You don't wanna die.
 
 > Charlie Simms: Neither do you.
 
 > Lt. Col. Frank Slade: Give me one good reason not to.
 
-> Charlie Simms: I’ll give you two. You can dance the tango and drive a Ferrari better than anyone I’ve ever seen.
+> Charlie Simms: I'll give you two. You can dance the tango and drive a Ferrari better than anyone I've ever seen.
 
 > Lt. Col. Frank Slade: You never seen anyone do either.
 
@@ -85,26 +85,26 @@ tags: [life, zhihu, movie, scent of a woman, al pacino]
 > Lt. Col. Frank Slade: When in doubt… fuck.
 
 <!-- more -->
-
-> Lt. Col. Frank Slade: Out of order, I show you out of order. You don’t know what out of order is, Mr. Trask. I’d show you, but I’m too old, I’m too tired, I’m too fuckin’ blind. If I were the man I was five years ago, I’d take a FLAMETHROWER to this place! Out of order? Who the hell do you think you’re talkin’ to? I’ve been around, you know? There was a time I could see. And I have seen. Boys like these, younger than these, their arms torn out, their legs ripped off. But there isn’t nothin’ like the sight of an amputated spirit. There is no prosthetic for that. You think you’re merely sending this splendid foot soldier back home to Oregon with his tail between his legs, but I say you are… executin’ his soul! And why? Because he’s not a Bairdman. Bairdmen. You hurt this boy, you’re gonna be Baird bums, the lot of ya. And Harry, Jimmy, Trent, wherever you are out there, FUCK YOU TOO!
+'
+> Lt. Col. Frank Slade: Out of order, I show you out of order. You don't know what out of order is, Mr. Trask. I'd show you, but I'm too old, I'm too tired, I'm too fuckin' blind. If I were the man I was five years ago, I'd take a FLAMETHROWER to this place! Out of order? Who the hell do you think you're talkin' to? I've been around, you know? There was a time I could see. And I have seen. Boys like these, younger than these, their arms torn out, their legs ripped off. But there isn't nothin' like the sight of an amputated spirit. There is no prosthetic for that. You think you're merely sending this splendid foot soldier back home to Oregon with his tail between his legs, but I say you are… executin' his soul! And why? Because he's not a Bairdman. Bairdmen. You hurt this boy, you're gonna be Baird bums, the lot of ya. And Harry, Jimmy, Trent, wherever you are out there, FUCK YOU TOO!
 
 <!-- more -->
 
-> Lt. Col. Frank Slade: I don’t know if Charlie’s silence here today is right or wrong; I’m not a judge or jury. But I can tell you this: he won’t sell anybody out to buy his future!
+> Lt. Col. Frank Slade: I don't know if Charlie's silence here today is right or wrong; I'm not a judge or jury. But I can tell you this: he won't sell anybody out to buy his future!
 
 <!-- more -->
 
 > Lt. Col. Frank Slade: Oh, where do I go from here, Charlie?
 
-> Charlie Simms: If you’re tangled up, just tango on.
+> Charlie Simms: If you're tangled up, just tango on.
 
-> Lt. Col. Frank Slade: You askin’ me to dance, Charlie?
+> Lt. Col. Frank Slade: You askin' me to dance, Charlie?
 
 特别喜欢这段：
 
 > Lt. Col. Frank Slade: [Lt. Col. Frank Slade is speaking in defense of Charlie Simms at meeting at the Baird School]
 
-> **Now I have come to the cross-roads in my life. I always knew what the right path was. Without exception, I knew, but I never took it. You know why? It was too damn hard. Now here’s Charlie. He’s come to the cross-roads. He has chosen a path. It’s the right path. It’s a path made of principle that leads to character. Let him continue on his journey.**
+> **Now I have come to the cross-roads in my life. I always knew what the right path was. Without exception, I knew, but I never took it. You know why? It was too damn hard. Now here's Charlie. He's come to the cross-roads. He has chosen a path. It's the right path. It's a path made of principle that leads to character. Let him continue on his journey.**
 
 看完才去查了男主角的资料，看看他主演过的都是什么电影吧，只列三部：
 
