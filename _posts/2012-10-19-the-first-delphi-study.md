@@ -7,7 +7,7 @@ tags: [Delphi, code, study, internship]
 
 ---
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/cropped-delphi.jpg)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-19-the-first-delphi-study/cropped-delphi.jpg)
 
 9月13号开始的实习，今天10月18号了，除开国庆8天的长假，在公司实习也将近要一个月了，只到今天才有点自己的空闲时间，想写点东西，怕时间久了，忘了。
 
@@ -22,7 +22,7 @@ tags: [Delphi, code, study, internship]
 
 安装CnPack前后：
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Delphi_s_short.png)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-19-the-first-delphi-study/delphi_short.png)
 
 1. 赋值语句由 `=` 变成了， `:=` 。而 `=` 则表示是相等的意思，两边是布尔值。最开始写代码的时候哈有点适应不过来。
 
@@ -57,7 +57,7 @@ end;
 
 公司实习每个月有一次考核，第一个月我的任务是做一个类似Windows自带注册表编辑器的一个东西：	
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/first_delphi_pro.png)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-19-the-first-delphi-study/first_delphi_pro.png)
 
 开始的时候也不知道从哪里下手，虽说知道有注册表这个东西，但是真是没有研究过，也不知道它是用来干什么的，里面存储的数据又哪用。但也有硬着头皮做下去。前几天基本都是在熟悉语法和IDE，开始用Delphi 2009时，无比怀念VS，甚至还Google了下能用VS写Delphi的代码么。各种快捷键要重新熟悉过。
 
@@ -73,7 +73,7 @@ end;
 
 ## 一些压力
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/yl.jpg)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-19-the-first-delphi-study/bicycle.jpg)
 
 国庆回来的第一个星期，突然感觉压力很大，跟我一起实习的哥们在国庆前就把他做的程序交了，也验收了。但是我这才做出的点点东西了，很多都还没有搞清楚。想着每个月的考核，自己就开始乱想，想着如果第一月考核就不过，是不是很丢脸，刚刚拿到实习的时候，还兴奋的到处打电话告诉他们这个好消息，现在连第一月的考核都危险了。每天除了在编写代码的时候，都会有这个想法在脑子里转。感觉每天都过的飞快，想要是国庆不回家去就好了，呆在租的地方，先把程序写出来再说，现在看来就是这写想法给我了很大的压力，还有对这个程序整体完全没有把握，心中没有一个进度的感觉，就算做出来一个功能也不知道整个程序完成了几分之几。心里就发慌。
 
