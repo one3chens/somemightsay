@@ -1,9 +1,11 @@
 ---
+
 layout: post
 date: 2011-12-07
 title: 折腾Kindle记
-tags: Kindle,duokan,book,read
+tags: [Kindle, duokan, book, read]
 comments: true
+
 ---
 
 ## 入手Kindle 3
@@ -22,11 +24,11 @@ comments: true
 
 ### 格式
 
-![Alt text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindke_duokan.jpg)
+![Alt text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindke_duokan.jpg)
 
 ### 功能
 
-![Alt text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_function.jpg)
+![Alt text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_function.jpg)
 
 因为多看Lite比较新，界面也比老版多看好看些，就安装了多看Lite。值得说的时候多看论坛里面还有[漫画版安装说明](http://www.duokan.com/forum/thread-43953-1-1.html)，多看多团队还是多有爱的。
 
@@ -53,7 +55,7 @@ comments: true
 
 *多看系统设置：*
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_Duokan_Setting.png)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_Duokan_Setting.png)
 
 用多看系统看中文还是很好的选择。特别是字体版的PDF ，智能重排是个很有用的功能。但是相比原系统少了很多功能，尤其是网络方面。
 
@@ -79,7 +81,7 @@ Kindle Keyboard 3G customers from the United States can travel internationally a
 
 另外还需要注意到时候，Amazon推送邮件服务里面有个白名单机制防止接收大量的垃圾推送。如果你要添加一个推送服务的话你需要先把它提供给你的电子邮件先添加进白名单里面。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_Amaz_info.png) 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_Amaz_info.png) 
 
 ### 其他推送网站推荐
 - [Kindle4rss](http://kindle4rss.com/) 免费用户有限制，可以升级成付费用户。支持支付宝，半年30元。
@@ -90,7 +92,7 @@ Kindle Keyboard 3G customers from the United States can travel internationally a
 ### 不足
 唯一感觉不舒服的就是Kindle原系统对中文支持太不好。很多显示的不了的地方直接是口口口，里面还个问号，字体也不好看。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_screen_shot.gif) 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_screen_shot.gif) 
 
 继续折腾～
 
@@ -119,11 +121,11 @@ Kindle Keyboard 3G customers from the United States can travel internationally a
 
 要查看的话是在 **Home->Menu->Settings**  里面看。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_break.gif)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_break.gif)
 
 下载完[kindle-jailbreak-0.10.N.zip](http://www.mobileread.com/forums/attachment.php?attachmentid=77945&d=1318991430)文件后解压会得到很多对应的升级包。 
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_2011-12-6-21-05-11.png)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_2011-12-6-21-05-11.png)
 
 必须对应自己的Kindle选择升级包：
 - k3g – K3 3G (US [B006])
@@ -148,7 +150,7 @@ fonts hack过后，感觉英文字体没有原系统看着舒服，自己有替�
 
 来一个中文显示的图片：
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_screen_shot-447.gif) 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_screen_shot-447.gif) 
 
 相比之前没有越狱和字体的截图，这样看起舒服多了。
 
@@ -158,14 +160,14 @@ fonts hack过后，感觉英文字体没有原系统看着舒服，自己有替�
 
 下面贴出几张我第一眼看到感觉不错的：
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_screen_shot1.gif) 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_screen_shot2.gif)
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_screen_shot3.gif) 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_screen_shot4.gif) 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_screen_shot1.gif) 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_screen_shot2.gif)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_screen_shot3.gif) 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_screen_shot4.gif) 
 
 如果上拷贝出自己Kindle里面的屏保文件可以在 **system.assets**  文件夹上找到。能你会发现即使是打开了显示隐藏文件夹也找不到 **system**  目录。你可以直接在文件目录那输入刚刚我提供的文件目录即可。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_Win_screen_shot.png)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_Win_screen_shot.png)
 
 ## 资源
 
@@ -178,7 +180,7 @@ fonts hack过后，感觉英文字体没有原系统看着舒服，自己有替�
 - [皮皮书屋](http://www.ppurl.com/) 要求注册，并且注册的验证码一道简单的程序题，有各种编程语言。从验证码就可以看出里面电子书的内容是大多是什么类型。
 - [Amazon](http://www.amazon.com/b?ie=UTF8&node=2245146011) Amazon官方推荐的免费电子书下载网站。 
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/Kindle_pipi.png)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-12-07-play-with-kindle/Kindle_pipi.png)
 
 **很多时候都用不到上面的那些网站，只有当你不知道看什么的书的时候才会去上面的那些网站找书看吧，我更多的时候都是Google你想看到那本书，如果有电子版的一般都会很容易的找到。还是用万能的Google吧！**
 

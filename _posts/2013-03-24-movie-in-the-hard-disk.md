@@ -7,7 +7,7 @@ tags: [movies, download]
 
 ---
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/9.jpg)
+![movie-nine][^1]
 
 前几天整理硬盘的时候，发现保存的电影已经超过2T了，遂把这些电影都整理到一个硬盘里面，然后保存起来。这也是我最开始买抽取式硬盘的原因。网上卖的3.5英寸硬盘移动硬盘不是同一个品牌的形状大小都没几个是一样的，就算是同一个品牌的，说不定过几个月退推出新产品就又不一样了，不利于今后的保存。
 
@@ -28,9 +28,9 @@ tags: [movies, download]
 
 大概有400+部电影，都是我从大学开始保存下来的，里面的电影多为720P的，有些低质量的是因为实在找不到720P及以上的资源，而又非常想保存的。有些1080的应该是从别人那转来的，要不是就是很喜欢的电影，或者是即使是1080P大小也还可以接受的电影
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/movie_hard_disk1.jpg) 
+![camera-pic-1][^2] 
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/movie_disk.jpg)
+![camera-pic-1][^3]
 
 ## 回忆
 
@@ -814,3 +814,8 @@ The.Messages.2009.720p.BluRay.x264.DTS-WiKi.mkv
 
 ## 题外话
 因为最近在学习Markdown，所以这篇文章我是先用Markdown写的，再通过HTML修改而成的！嘻嘻~
+
+
+[^1]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2013-03-24-movie-in-the-hard-disk/movie_9.jpg
+[^2]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2013-03-24-movie-in-the-hard-disk/movie_hard_disk_1.jpg
+[^3]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2013-03-24-movie-in-the-hard-disk/movie_hard_disk_2.jpg

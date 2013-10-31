@@ -7,7 +7,7 @@ tags: [life, zhihu, plan, reading, study]
 
 ---
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/recent_events.jpg)
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-03-14-recently-stuff/WWS_CH01_Panel041.jpg)
 
 开学到这周已经一个月了，半个月前我的状态还停留在大二的那种无聊，不知道该干点什么的状态，现在已经是大三的下半学期了，时间一眨眼就过去了，不想等到下学期大四的时候还在为学校的课程所拖累，而不能出去实习。本来这学期就打算出去的， 虽然自己没什么拿的出手的，但是确实不想在学校呆了，没什么意思，早晚要出去还不如先出去，但是学校有硬性的指标，学分要修够，上学期还不能挂科，结果两样我都没有赶上。所以这学期就只有还是呆在学校里。
 
