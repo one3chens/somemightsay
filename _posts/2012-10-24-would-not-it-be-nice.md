@@ -83,7 +83,7 @@ tags: [life, zhihu, movie, scent of a woman, al pacino]
 > Lt. Col. Frank Slade: When in doubt… fuck.
 
 <!-- more -->
-'
+
 > Lt. Col. Frank Slade: Out of order, I show you out of order. You don't know what out of order is, Mr. Trask. I'd show you, but I'm too old, I'm too tired, I'm too fuckin' blind. If I were the man I was five years ago, I'd take a FLAMETHROWER to this place! Out of order? Who the hell do you think you're talkin' to? I've been around, you know? There was a time I could see. And I have seen. Boys like these, younger than these, their arms torn out, their legs ripped off. But there isn't nothin' like the sight of an amputated spirit. There is no prosthetic for that. You think you're merely sending this splendid foot soldier back home to Oregon with his tail between his legs, but I say you are… executin' his soul! And why? Because he's not a Bairdman. Bairdmen. You hurt this boy, you're gonna be Baird bums, the lot of ya. And Harry, Jimmy, Trent, wherever you are out there, FUCK YOU TOO!
 
 <!-- more -->
