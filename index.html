@@ -4,13 +4,29 @@ title: Some Might Say
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1> Life <a href="/life.html">&raquo;</a> </h1>
   <ul class="posts">
-    {% for post in paginator.posts %}
+    {% for post in site.tags.life limit:10 %}    
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  <h1> Movie <a href="/movie.html">&raquo;</a> </h1>
+  <ul class="posts">
+    {% for post in site.tags.movie limit:10 %}    
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1> Code <a href="/code.html">&raquo;</a> </h1>
+  <ul class="posts">
+    {% for post in site.tags.code limit:10 %}    
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
 </div>
+
 
 <!-- Pagination links -->
 <div class="pagination">
