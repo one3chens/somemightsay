@@ -3,7 +3,7 @@
 layout: post
 date: 2012-10-19 02:11
 title: Delphi学习的第一个月
-tags: [Delphi, code, study, internship]
+tags: [delphi, code, study, internship]
 
 ---
 
