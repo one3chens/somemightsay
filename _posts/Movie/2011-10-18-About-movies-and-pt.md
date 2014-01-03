@@ -1,9 +1,10 @@
 ---
+
 layout: post
 title: 有关电影下载和PT
 date: 2011-10-18
-comments: true
-tags: Movie,PT,Download,HDChina
+tags: [movie,pt,download,hdchina]
+
 ---
 
 国庆的时候，在群里听说HDChina开放注册三天，1号的凌晨果断注册了一个。早就听说过PT，一直没有搞清楚里面是个啥子。仅晓得里面有很多高清而已，而且很多都是在外面搜不到的。注册过后有个30天的新人考核，已在昨天断电之前完成。鉴于很久没有更新博客了，为了不让博客看起来太干净，也谈谈感受。

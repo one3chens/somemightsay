@@ -3,8 +3,7 @@
 layout: post
 date: 2011-12-07
 title: 折腾Kindle记
-tags: [Kindle, duokan, book, read]
-comments: true
+tags: [life, kindle, duokan, book, read]
 
 ---
 

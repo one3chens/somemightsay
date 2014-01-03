@@ -3,7 +3,7 @@
 layout: post
 date: 2012-01-10
 title: 为学洗黑白照片做准备
-tags: [photo, dad]
+tags: [life,photo,dad]
 
 ---
 

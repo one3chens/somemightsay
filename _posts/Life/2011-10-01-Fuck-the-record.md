@@ -1,9 +1,10 @@
 ---
+
 layout: post
 title: 滚蛋吧！备案。
 date: 2011-10-01
-comments: true
-tags: Life,Blog
+tags: [life,blog]
+
 ---
 
 ![Fuck](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-10-01-Fuck-the-record/middle-finger-gesture.gif)

@@ -1,9 +1,10 @@
 ---
+
 layout: post
 date: 2011-11-19
 title: 留点时间给自己思考
-tags: read,college,thinking,study
-comments: true
+tags: [life,read,college,thinking,study]
+
 ---
 
 ![Tink][^1]
