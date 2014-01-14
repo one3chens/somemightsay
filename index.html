@@ -25,6 +25,13 @@ title: Some Might Say
     {% endfor %}
   </ul>
 
+  <h1> Translate <a href="/translate.html">&raquo;</a> </h1>
+  <ul class="posts">
+    {% for post in site.tags.translate limit:10 %}    
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
 </div>
 
 
