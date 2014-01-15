@@ -20,5 +20,11 @@ tags: [delphi, code]
 
 [Change the Default Application Icon for a Console Mode Delphi Application][^1]
 
+[Changing console application window icon at runtime!][^2]
+
+[Change icon for a Delphi console application][^3]
+
 
 [^1]: http://delphi.about.com/od/delphitips2009/qt/console-mode-delphi-application-specify-icon.htm
+[^2]: http://ntcoder.com/bab/2007/07/24/changing-console-application-window-icon-at-runtime/
+[^3]: http://stackoverflow.com/questions/1627526/change-icon-for-a-delphi-console-application
