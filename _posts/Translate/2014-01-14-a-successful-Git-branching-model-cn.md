@@ -27,8 +27,7 @@ tags: [translate,git]
 
 ## 分布式但是中心化
 
-
-
+{To be continued}
 
 [ref_see]: http://whygitisbetterthanx.com/ 
 [ref_web]: http://git.or.cz/gitwiki/GitSvnComparsion
