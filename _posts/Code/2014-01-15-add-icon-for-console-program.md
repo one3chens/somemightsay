@@ -7,14 +7,14 @@ tags: [delphi, code]
 
 ---
 
-
-
 > all console mode applications have the same icon (depends on the Windows version).
 
-- write `1 icon "xxx.ico"` in a file and save this file as `xxx.rc`
-- add `xxx.rc` to your console mode project
-- Compile
 
+```
+ write `1 icon "xxx.ico"` in a file and save this file as `xxx.rc`
+ add `xxx.rc` to your console mode project
+ Compile
+```
 
 #### Reference
 
