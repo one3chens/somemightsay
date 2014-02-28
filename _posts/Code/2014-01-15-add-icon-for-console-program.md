@@ -16,6 +16,32 @@ tags: [delphi, code]
  Compile
 ```
 
+<br/>
+
+***（2014-02-28 Update）***
+
+---
+
+最近在使用上面这个方法的时候出现了错误
+
+```
+ [BRCC32 Error] xxx.rc(1): Allocate failed
+```
+ 
+找到其他办法解决  
+
+```
+ - add `{$R *.res}`
+ - uses `Forms` unit
+ - add `Application.Initialize` in the beginning
+ - `Complie`
+ - open project options
+ - select Application and add icon
+ - `Complie`
+ - remove `Forms` unit
+ - remove `Application.Initialize` in the beginning
+```
+
 #### Reference
 
 [Change the Default Application Icon for a Console Mode Delphi Application][^1]
@@ -23,6 +49,9 @@ tags: [delphi, code]
 [Changing console application window icon at runtime!][^2]
 
 [Change icon for a Delphi console application][^3]
+
+
+
 
 
 [^1]: http://delphi.about.com/od/delphitips2009/qt/console-mode-delphi-application-specify-icon.htm
