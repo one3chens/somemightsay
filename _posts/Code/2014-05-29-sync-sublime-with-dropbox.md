@@ -3,7 +3,7 @@
 layout: post
 date: 14-05-29 16:02:10
 title: Sublime Text 同步
-tags: [st3, dropbox, sync]
+tags: [st3, dropbox, sync, code]
 
 ---
 
