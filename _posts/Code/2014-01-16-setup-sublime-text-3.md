@@ -7,6 +7,21 @@ tags: [code, st3]
 
 ---
 
+### Windows下设置默认打开方式
+
+删除 `HKEY_CURRENT_USER\Software\Classes\Applications` 下的 `Sublime_Text.exe` 项
+
+### Windows下右键关联及图标
+
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/context-menu-2.png)  
+
+右键关联 : 添加 `HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text\command` 值为 `..\Sublime Text 3\sublime_text.exe %1`
+
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/context-menu-1.png)
+
+图标 : 在新建字符串值命名为 `Icon`，值为 `..\Sublime Text 3\sublime_text.exe,0`
+
+
 ### 中文乱码问题
 
 ![test_cn](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/cn_test.png)  
