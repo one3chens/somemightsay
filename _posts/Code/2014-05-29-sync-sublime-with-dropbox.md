@@ -40,6 +40,20 @@ ln -s ~/Dropbox/Sublime/User
 
 原理应该和上面的一样，但是它会选择性的同步，比如我自己写了个 `python` 脚本也需要同步，这个包目前还没发做到。
 
+
+### Git
+
+我自己在 `~/Dropbox/Sublime/User` 里面建立了Git来控制那些文件改变了，改变了些什么，算是一个备份和加强控制。
+
+以下是 `Package Control` 给出可以 Ignore 的文件
+
+ - Package Control.last-run
+ - Package Control.ca-list
+ - Package Control.ca-bundle
+ - Package Control.system-ca-bundle
+ - Package Control.cache/
+ - Package Control.ca-certs/
+
 ### Reference
 
 [Package Control Sync](https://sublime.wbond.net/docs/syncing)
