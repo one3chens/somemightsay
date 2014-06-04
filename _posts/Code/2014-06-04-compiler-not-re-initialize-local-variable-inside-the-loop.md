@@ -9,7 +9,7 @@ tags: [delphi, code, study, compiler]
 
 #### Code
 
-```Delphi
+{% highlight delphi %}
 function Foo: string;
 begin
   Result := Result + 'X';
@@ -24,7 +24,7 @@ begin
   Writeln(Foo);
   Writeln(Foo);
 end;
-```
+{% endhighlight %}
 
 #### Output
 
