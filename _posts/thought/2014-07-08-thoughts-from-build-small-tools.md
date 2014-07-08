@@ -8,6 +8,8 @@ categories: [thought]
 
 ---
 
+![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-07-08-thoughts-from-build-small-tools/monkey_business%21.jpg) 
+
 ## 内部工具
 
 在现在公司里，因为产品性质的原因，我更多的是编写一些内部的工具，我并没有觉得这有什么不好的，反而算是一种锻炼吧，而且写内部用的工具有很多优点，总结下来：
