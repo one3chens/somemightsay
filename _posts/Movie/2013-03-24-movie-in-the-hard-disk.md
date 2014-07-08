@@ -4,6 +4,7 @@ layout: post
 date: 2013-03-24 01:52
 title: 硬盘里的电影
 tags: [movie, download]
+categories: [movie]
 
 ---
 

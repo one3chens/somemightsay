@@ -4,6 +4,7 @@ layout: post
 date: 2014-01-21 14:02
 title: Sublime with Markdown
 tags: [code, markdown, st3]
+categories: [code]
 
 ---
 

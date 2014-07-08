@@ -4,6 +4,7 @@ layout: post
 title: A successful Git branching model
 date: 2010-01-05
 tags: [git,translate]
+categories: [translate]
 
 ---
 

@@ -4,6 +4,7 @@ layout: post
 title: 滚蛋吧！备案。
 date: 2011-10-01
 tags: [life,blog]
+categories: [thought]
 
 ---
 

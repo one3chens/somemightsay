@@ -4,6 +4,7 @@ layout: post
 date: 2011-12-07
 title: 折腾Kindle记
 tags: [life, kindle, duokan, book, read]
+categories: [thought]
 
 ---
 

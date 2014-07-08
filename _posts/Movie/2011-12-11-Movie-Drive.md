@@ -4,6 +4,7 @@ layout: post
 date: 2011-12-11
 title: Drive 亡命驾驶
 tags: [movie, ryan-gosling, carey-mulligan]
+categories: [movie]
 
 ---
 

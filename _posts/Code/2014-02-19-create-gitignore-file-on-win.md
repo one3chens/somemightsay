@@ -4,6 +4,7 @@ layout: post
 title: Create .gitignore file on windows
 date: 2014-02-19 17:47:38
 tags: [code, git]
+categories: [code]
 
 ---
 

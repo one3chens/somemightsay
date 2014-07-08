@@ -4,6 +4,7 @@ layout: post
 title: How TDatetime convert to double
 date: 2014-02-10 16:58
 tags: [code,delphi]
+categories: [code]
 
 ---
 

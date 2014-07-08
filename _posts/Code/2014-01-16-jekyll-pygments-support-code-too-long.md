@@ -4,6 +4,7 @@ layout: post
 date: 2014-01-16 20:47
 title: How pygments support long code
 tags: [code, jekyll, css, pygments]
+categories: [code]
 
 ---
 

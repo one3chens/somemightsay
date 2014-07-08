@@ -4,6 +4,7 @@ layout: post
 date: 2012-03-14
 title: 最近的一些情况
 tags: [life, zhihu, plan, reading, study]
+categories: [thought]
 
 ---
 

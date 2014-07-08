@@ -4,6 +4,7 @@ layout: post
 title: Add Cascading Menus in windows
 date: 14-07-08 14:01:15
 tags: [code, windows, delphi, registry]
+categories: [code]
 
 ---
 

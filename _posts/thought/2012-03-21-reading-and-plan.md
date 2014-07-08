@@ -4,6 +4,7 @@ layout: post
 date: 2012-03-21
 title: 阅读感受和计划
 tags: [life, reading, plan, college]
+categories: [thought]
 
 ---
 

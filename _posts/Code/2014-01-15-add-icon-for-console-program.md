@@ -4,6 +4,7 @@ layout: post
 date: 2014-01-15 10:53
 title: Delphi控制台程序添加图标
 tags: [delphi, code]
+categories: [code]
 
 ---
 

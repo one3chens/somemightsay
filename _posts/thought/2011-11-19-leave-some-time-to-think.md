@@ -4,6 +4,7 @@ layout: post
 date: 2011-11-19
 title: 留点时间给自己思考
 tags: [life,read,college,thinking,study]
+categories: [thought]
 
 ---
 

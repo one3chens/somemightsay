@@ -4,6 +4,7 @@ layout: post
 date: 2012-10-24 02:07
 title: Wouldn't it be nice!
 tags: [life, zhihu, scent of a woman, al pacino]
+categories: [thought]
 
 ---
 

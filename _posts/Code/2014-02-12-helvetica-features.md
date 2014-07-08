@@ -4,6 +4,7 @@ layout: post
 title: Helvetica's features
 date: 2014-02-12 21:09
 tags: [code, typeface, font, helvetica]
+categories: [code]
 
 ---
 

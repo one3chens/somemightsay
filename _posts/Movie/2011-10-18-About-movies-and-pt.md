@@ -4,6 +4,7 @@ layout: post
 title: 有关电影下载和PT
 date: 2011-10-18
 tags: [movie,pt,download,hdchina]
+categories: [movie]
 
 ---
 

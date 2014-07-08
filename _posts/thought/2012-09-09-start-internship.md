@@ -4,6 +4,7 @@ layout: post
 date: 2012-09-09
 title: 实习了
 tags: [life, interview]
+categories: [thought]
 
 ---
 

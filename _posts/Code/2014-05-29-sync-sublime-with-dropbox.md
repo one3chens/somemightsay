@@ -4,6 +4,7 @@ layout: post
 date: 14-05-29 16:02:10
 title: Sync Sublime Text with Dropbox
 tags: [st3, dropbox, sync, code]
+categories: [code]
 
 ---
 

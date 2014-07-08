@@ -4,6 +4,7 @@ layout: post
 date: 2014-01-16 16:48
 title: Setup Sublime Text 3	
 tags: [code, st3]
+categories: [code]
 
 ---
 

@@ -4,6 +4,7 @@ layout: post
 title: Get the git commit count
 date: 14-06-07 18:14:21
 tags: [code, git]
+categories: [code]
 
 ---
 

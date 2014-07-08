@@ -4,6 +4,7 @@ layout: post
 date: 14-06-04 21:30:31
 title: Compiler not re initialize local variable inside the loop
 tags: [delphi, code, study, compiler]
+categories: [code]
 
 ---
 
