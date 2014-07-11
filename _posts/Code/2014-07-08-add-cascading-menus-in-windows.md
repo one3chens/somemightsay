@@ -8,6 +8,8 @@ categories: [code]
 
 ---
 
+## Use registry
+
 eg : add `C:\foo.exe` and `C:\bar.exe` to all file right click cascading menus
 
 the reg file should be like this
@@ -38,4 +40,8 @@ Windows Registry Editor Version 5.00
 "icon"="IconPath"
 "SubCommands"="foo;bar"
 ```
+
+## Remark
+
+> Windows XP and Vista dont support cascading menus feature.
 
