@@ -30,7 +30,7 @@ assume project in `E:\DeskTop\project`
 
 ```bash
 Administrator@PC-CHENHANLIN /E/DeskTop/project (master)
-$ git remote add origin E:\Dropbox\git
+$ git remote add origin E:\\Dropbox\\git
 Administrator@PC-CHENHANLIN /E/DeskTop/project (master)
 $ git remote
 origin
