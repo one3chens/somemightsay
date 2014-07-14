@@ -10,7 +10,7 @@ categories: [code]
 
 ### Use command line
 
-![Git](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-07-14-use-dropbox-with-git-in-windows/GitHubTutorial-Part1_0.jpg) 
+![Git](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-07-14-use-dropbox-with-git-in-windows/gitdropbox.png) 
 
 #### Add bare repository in dropbox folder
 
