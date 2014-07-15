@@ -38,6 +38,12 @@ origin
 
 ### Remark
 
+Clone to local
+
+```bash
+git clone E:\\Dropbox\\git
+```
+
 > This approach is only suitable for a small team (two in my case) where people can just shout over their cubicle walls: "Hey! Nobody push! I'm pushing now!"
 
 >  –  [Ates Goral](https://stackoverflow.com/questions/1960799/using-git-and-dropbox-together-effectively#comment3906000_1961515)
