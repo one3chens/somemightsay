@@ -8,7 +8,7 @@ categories: [movie]
 
 ---
 
-好久没有电影了，随便在电脑上找了一部之前下好的电影，这种没有预期的，但又很契合当前心情的电影，感觉真的很棒
+好久没有看电影了，随便在电脑上找了一部之前下好的电影，这种没有预期的，但又很契合当前心情的电影，感觉真的很棒。
 
 ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-07-27-The-Secret-Life-of-Walter-Mitty/The.Secret.Life%5B00_07_07%5D%5B20140727-214607-2%5D.PNG) 
 
