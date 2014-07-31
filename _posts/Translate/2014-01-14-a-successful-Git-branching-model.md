@@ -94,7 +94,7 @@ Switched to a new branch "myfeature"
 Finished features may be merged into the `develop` branch definitely add them to the upcoming release:
 
 
-```
+```bash
 $ git checkout develop
 Switched to branch 'develop'
 $ git merge --no-ff myfeature
@@ -131,7 +131,7 @@ It is exactly at the start of a release branch that the upcoming release gets as
 
 Release branches are created from the `develop` branch. For example, say version 1.1.5 is the current production release and we have a big release coming up. The state of `develop` is ready for the “next release” and we have decided that this will become version 1.2 (rather than 1.1.6 or 2.0). So we branch off and give the release branch a name reflecting the new version number:
 
-```
+```bash
 $ git checkout -b release-1.2 develop
 Switched to a new branch "release-1.2"
 $ ./bump-version.sh 1.2
@@ -151,7 +151,7 @@ When the state of the release branch is ready to become a real release, some act
 
 The first two steps in Git:
 
-```
+```bash
 $ git checkout master
 Switched to branch 'master'
 $ git merge --no-ff release-1.2
@@ -166,7 +166,7 @@ The release is now done, and tagged for future reference.
 
 To keep the changes made in the release branch, we need to merge those back into `develop`, though. In Git:
 
-```
+```bash
 $ git checkout develop
 Switched to branch 'develop'
 $ git merge --no-ff release-1.2
@@ -178,7 +178,7 @@ This step may well lead to a merge conflict (probably even, since we have change
 
 Now we are really done and the release branch may be removed, since we don’t need it anymore:
 
-```
+```bash
 $ git branch -d release-1.2
 Deleted branch release-1.2 (was ff452fe).
 ```
@@ -199,7 +199,7 @@ The essence is that work of team members (on the `develop` branch) can continue,
 
 Hotfix branches are created from the master branch. For example, say version 1.2 is the current production release running live and causing troubles due to a severe bug. But changes on `develop` are yet unstable. We may then branch off a hotfix branch and start fixing the problem:
 
-```
+```bash
 $ git checkout -b hotfix-1.2.1 master
 Switched to a new branch "hotfix-1.2.1"
 $ ./bump-version.sh 1.2.1
@@ -213,7 +213,7 @@ Don’t forget to bump the version number after branching off!
 
 Then, fix the bug and commit the fix in one or more separate commits.
 
-```
+```bash
 $ git commit -m "Fixed severe production problem"
 [hotfix-1.2.1 abbe5d6] Fixed severe production problem
 5 files changed, 32 insertions(+), 17 deletions(-)
@@ -225,7 +225,7 @@ When finished, the bugfix needs to be merged back into `master`, but also needs 
 
 First, update `master` and tag the release.
 
-```
+```bash
 $ git checkout master
 Switched to branch 'master'
 $ git merge --no-ff hotfix-1.2.1
@@ -238,7 +238,7 @@ $ git tag -a 1.2.1
 
 Next, include the bugfix in `develop`, too:
 
-```
+```bash
 $ git checkout develop
 Switched to branch 'develop'
 $ git merge --no-ff hotfix-1.2.1
@@ -250,7 +250,7 @@ The one exception to the rule here is that, **when a release branch currently ex
 
 Finally, remove the temporary branch:
 
-```
+```bash
 $ git branch -d hotfix-1.2.1
 Deleted branch hotfix-1.2.1 (was abbe5d6).
 ```
