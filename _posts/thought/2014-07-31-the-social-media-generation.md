@@ -1,9 +1,7 @@
-CARTOON QUOTES : the-social-media-generation
-
 ---
 
 layout: post
-title: CARTOON QUOTES : the-social-media-generation
+title: The social media generation
 date: 14-07-31 16:20:42
 tags: [social, abuse]
 categories: [thought]
