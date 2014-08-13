@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: iOS class accessor
+title: Objective-C class accessor
 date: 14-08-13 23:51:53
 tags: [iOS, Dev]
 categories: [code]
