@@ -40,9 +40,9 @@ categories: [code]
 
 因为工作的原因一直在用 `Delphi` 编码，以下是我对匈牙利命名法的一些看法：
 
-- 一般情况下不使用 `系统匈牙利命名法` ，因为编译器做类型检查时就会指出来，更多的时候其实并不需要通过前缀在识别变量的类型(通过代码跳转到定义及鼠标悬停在变量上都可以确定变量类型)
+- 一般情况下不使用 `系统匈牙利命名法` ，因为编译器做类型检查时就会指出来，更多的时候其实并不需要通过前缀来识别变量的类型(在IDE中可以通过代码跳转到定义及鼠标悬停在变量上都可以确定变量类型)
 
-- 在同一个代码块中，出现包含同样内容但是不同类型的变量是可以考虑使用 `系统匈牙利命名法` 来识别，例如一个函数返回一个字符串类型的版本信息，即可以记作 `sVersion` ，但是在另一个函数中需要传入的版本参数却是一个整形，即可记作 `nVersion` 。
+- 在同一个代码块中，出现包含相同内容但是不同类型的变量是可以考虑使用 `系统匈牙利命名法` 来识别，例如一个函数返回一个字符串类型的版本信息，即可以记作 `sVersion` ，但是在另一个函数中需要传入的版本参数却是一个整形，即可记作 `nVersion` 。
 
 - 在使用全局变量的时候最好使用 `匈牙利应用命名法` 即在变量面前面加上 `g` 或者 `g_` ，因为全局变量会在多个单元里使用，加上前缀容易肉眼识别。
 
@@ -58,11 +58,11 @@ type
 
 ```pascal 
 var
-  ListBar : TStringList;
-  ListFoo : TStringList;
-  nListBar: Integer;
-  nListFoo: Integer;
-  n, m    : Integer;
+  ListBar  : TStringList;
+  ListFoo  : TStringList;
+  nListBar : Integer;
+  nListFoo : Integer;
+  n, m     : Integer;
 begin
   for n := 0 to ListBar.Count - 1 do
   begin
@@ -82,8 +82,7 @@ begin
 end;  
 ```
 
-显然在上面的例子中，在两层循环嵌套中使用 `ListBar[nListBar]` 和 `istFoo[nListFoo]` 的识别度要高于 `ListBar[n]` 和 `ListFoo[m]` ， 而一旦不小心把 `n` 和 `m` 颠倒了，也是很难早bug的；如果嵌套的层数再高些，出错的几率也要高些。  
-
+在上面的例子中，显然在两层循环嵌套中使用 `ListBar[nListBar]` 和 `istFoo[nListFoo]` 的识别度要高于 `ListBar[n]` 和 `ListFoo[m]` ， 而一旦不小心把 `n` 和 `m` 颠倒了，也是很难找bug的；如果嵌套的层数再高些，出错的几率还要高些。
 
 ### Reference
 
