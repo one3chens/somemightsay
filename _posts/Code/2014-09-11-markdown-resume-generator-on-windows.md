@@ -2,7 +2,7 @@
 
 layout: post
 date: 14-09-11 13:47:37
-title: Markdown Resume Generator on windows
+title: md2resume on windows
 tags: [markdown, code, ruby, resume, php]
 categories: [code]
 
