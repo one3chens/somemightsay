@@ -155,13 +155,23 @@ ul.posts span {
   font-family: 'Consolas', serif;
 }
 
-.site .footer .contact {
+/*.site .footer .contact {
   float: left;
   margin-right: 3em;
-}
+}*/
 
 .site .footer .contact a {
   color: #8085C1;
+}
+
+.site .footer .contact .powered {
+  font-family: 'Consolas', serif;
+  float: right;
+}
+
+.site .footer .contact .email {
+  font-family: 'Consolas', serif;
+  float: left;
 }
 
 .site .footer .rss {
