@@ -28,8 +28,8 @@ categories: [code]
 ```
  [BRCC32 Error] xxx.rc(1): Allocate failed
 ```
- 
-找到其他办法解决  
+
+找到其他办法解决
 
 ```
  - add `{$R *.res}`
@@ -50,9 +50,6 @@ categories: [code]
 [Changing console application window icon at runtime!][^2]
 
 [Change icon for a Delphi console application][^3]
-
-
-
 
 
 [^1]: http://delphi.about.com/od/delphitips2009/qt/console-mode-delphi-application-specify-icon.htm

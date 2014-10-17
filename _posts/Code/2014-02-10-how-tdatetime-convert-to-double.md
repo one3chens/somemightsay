@@ -10,9 +10,9 @@ categories: [code]
 
 在Delphi中 `TDatetime` 是 `Double` 类型的
 
-{% highlight delphi %}
+```pascal
 OutputDebugString(PChar(FloatToStr(Now)));
-{% endhighlight %}
+```
  
 会输出 `41680.8075846759` 这样的数字
 
@@ -22,7 +22,7 @@ OutputDebugString(PChar(FloatToStr(Now)));
 整数部分是代表距[Base Date][^4]的天数，在Object Pascal中，`Base Date` 为December 30, 1899，所以如果你运行下面的代码可以得到为零的浮点数
 
 
-{% highlight delphi %}
+```pascal
 var
 Date : TDateTime;
 FormatSettings : TFormatSettings;
@@ -35,7 +35,7 @@ FormatSettings.LongTimeFormat := 'hh:nn:ss';
 Date := StrToDateTime('1899-12-30 00:00:00', FormatSettings);
 OutputDebugString(PChar(FloatToStr(Date)));
 end
-{% endhighlight %}
+```
 
 而小数部分代表这一天的几分之几，例如 `1899-12-30 12:00:00` 得到的浮点数就为0.5
 

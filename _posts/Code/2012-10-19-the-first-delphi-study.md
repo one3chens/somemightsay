@@ -33,7 +33,7 @@ categories: [code]
 
 来个例子
 
-{% highlight delphi %}
+```pascal
 function HKEYtoString(rootKey: HKEY): string;
 begin
   Result := '';
@@ -50,7 +50,7 @@ begin
   else
     Result := '';
 end;
-{% endhighlight %}
+```
 
 其他的暂时还没有发现特别让我纠结的语法，和之间接触过的语言都大同小异。
 

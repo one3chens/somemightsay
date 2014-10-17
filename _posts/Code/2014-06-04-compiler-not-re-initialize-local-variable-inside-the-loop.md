@@ -10,7 +10,7 @@ categories: [code]
 
 #### Code
 
-{% highlight delphi %}
+```pascal
 function Foo: string;
 begin
   Result := Result + 'X';
@@ -25,7 +25,7 @@ begin
   Writeln(Foo);
   Writeln(Foo);
 end;
-{% endhighlight %}
+```
 
 #### Output
 
