@@ -19,13 +19,13 @@ Package
 
 ### Markdown Preview
 
-[GitHub地址][^1]
+[GitHub地址](https://github.com/revolunet/sublimetext-markdown-preview)
 
 这个Package可以在浏览器里预览你当前写的Markdwon文章，当前的版本已经支持了GFM样式预览了。另外还提供复制Markdown成HTML的功能。
 
 ### Markdown Extended
 
-[GitHub地址][^2]
+[GitHub地址](https://github.com/jonschlinkert/sublime-markdown-extended)
 
 `Markdown Extended` 可以使你在Markdown中的代码块显示高亮，而ST3默认的Markdown是无法高亮的。
 
@@ -53,9 +53,4 @@ Package
 Snippet
 ---
 
-我自己写了一些适用于Markdown的一些Snippets，放在了[GitHub][^3]上面。
-
-
-[^1]: https://github.com/revolunet/sublimetext-markdown-preview
-[^2]: https://github.com/jonschlinkert/sublime-markdown-extended
-[^3]: https://github.com/onion7878/sublime2-snippets/tree/master/MarkDown%20Snippet
+我自己写了一些适用于Markdown的一些Snippets，放在了[GitHub](https://github.com/onion7878/sublime2-snippets/tree/master/MarkDown%20Snippet)上面。
