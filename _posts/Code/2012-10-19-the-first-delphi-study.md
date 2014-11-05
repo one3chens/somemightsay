@@ -2,7 +2,7 @@
 
 layout: post
 date: 2012-10-19 02:11
-title: Delphi学习的第一个月
+title: The first month study delphi
 tags: [delphi, code, study, internship]
 categories: [code]
 
