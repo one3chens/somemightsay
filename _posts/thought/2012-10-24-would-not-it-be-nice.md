@@ -8,7 +8,7 @@ categories: [thought]
 
 ---
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-24-would-not-it-be-nice/Wouldnt_it_be_nice.jpg)
+![Text]({{site.url}}/assets/blog_img/2012-10-24-would-not-it-be-nice/Wouldnt_it_be_nice.jpg)
 
 ## 起因
 下班回来，刚刚打开电脑正在清空我的Google Reader呢，突然就发现没有网了，反复开关了路由器也不行，因为是跟别人一起用的，而那个人这几天又走了，所以就没办法解决，只有等它自己好了。
@@ -17,7 +17,7 @@ categories: [thought]
 
 ## 看书
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-24-would-not-it-be-nice/jimi_hendrix_quote.png)
+![Text]({{site.url}}/assets/blog_img/2012-10-24-would-not-it-be-nice/jimi_hendrix_quote.png)
 没有了网，不本来打算上上网就继续写代码的，这下也不能写了，没有了Google还怎么下手。但是总要做一些事情吧，第一个想到是把只剩下的几章的书看完，《满是镜子的房间： 吉米•亨德里克斯传》，这本书还是8月底买了，一直到开学的时候才开始看，而开学了又忙着实习的事，基本没有时间看，期间都是断断续续的看的，能想起看的最长的时间是在周一的早上从郫县到成都的动车上看的。因为是站票，一个人依在车厢靠窗的一侧，不知不觉就看了半个多小时，现在还有印象。
 
 在看这本书之前，一直在看另外一本书，也是传记《艾伦·图灵传：如谜的解谜者》，关注到这本书是在知乎上看到的一个问题：[中文版《图灵传》将在何时出版？](http://www.zhihu.com/question/20082161/answer/13915269)其中回答问题的就是本书的译者，通过他的回答，了解了这本书的翻译过程，向来比较喜欢追求完美、极致的人。因为这个答案，就一直在亚马逊和京东上关注这本书。 
@@ -29,11 +29,11 @@ categories: [thought]
 
 刚好今天没网，可以给自己找个理由说看个电影。之前，电脑上就装了很多电影，实习之前想到肯定要写代码，就把大部分电影装到泓子的硬盘里去了，不过现在电脑上的电影还是越来越多了，看到别人推荐的或者新出的蓝光就想去下下来。不看也保存着，下下来就踏实了，算是一种强迫症哇。
 
-<!-- ![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/ice-age-continental-drift-movie-poster-8.jpg) -->
+<!-- ![Text]({{site.url}}/assets/blog_img/ice-age-continental-drift-movie-poster-8.jpg) -->
 
 说说最近一个月看的两部电影，一步是在上周末看的《Ice.Age.Continental.Drift》一直很喜欢看动画片，当然不是国内的那种水平，像《Rango》、《Despicable Me》、《破 ヱヴァンゲリヲン新劇場版:破》等等都是我反复看，特别喜欢的电影，这次看的冰河世纪，其实没有把特别大的期待，大概的剧情也能猜到，但是却给我很好看的印象。笑点很多，很欢乐。虽然对前几部印象不是很深了，但是这部至少不会比之前的几部撇。看完想了下，要是这部电影放在以前学校的那段时间看，肯定会觉得很一般吧。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-10-24-would-not-it-be-nice/tango-al-pacino-scent-of-the-woman.jpg) 
+![Text]({{site.url}}/assets/blog_img/2012-10-24-would-not-it-be-nice/tango-al-pacino-scent-of-the-woman.jpg) 
 
 另外一部是今天晚上才看完的，准确的说是昨天晚上。《Scent of a Woman》，中文名叫：《闻香识女人》，之前对这部电影没有任何了解，是某天在豆瓣电台听到其原声的时候才下的。今天恰巧拿来看了。看完只能说太好看了，恨不得再看一遍，在看的过程中虽然不知道男主角就是大名鼎鼎的[Al Pacino](http://people.mtime.com/901967/)，但是确实演的太好了，就感觉着这个怎么也拿个奖吧，看完过后一查果然： 
 

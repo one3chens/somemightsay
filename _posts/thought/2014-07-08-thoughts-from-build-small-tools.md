@@ -8,7 +8,7 @@ categories: [thought]
 
 ---
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-07-08-thoughts-from-build-small-tools/monkey_business%21.jpg) 
+![Text]({{site.url}}/assets/blog_img/2014-07-08-thoughts-from-build-small-tools/monkey_business%21.jpg) 
 
 ## 内部工具
 

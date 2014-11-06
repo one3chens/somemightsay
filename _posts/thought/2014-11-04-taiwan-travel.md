@@ -8,7 +8,7 @@ categories: [thought]
 
 ---
 
-![taiwan](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-10-16-taiwan-travel/linchingche.jpg) 
+![taiwan]({{site.url}}/assets/blog_img/2014-10-16-taiwan-travel/linchingche.jpg) 
 
 *[林經哲](https://secure.flickr.com/photos/linchingche2537/)* ***画***
 
@@ -22,14 +22,14 @@ categories: [thought]
 
 期间还去了宁夏夜市，路上看见不少日式的小酒馆应该和台湾日治时期有不少关系，台湾的店面和街道都感觉小小的，这种小又不会让人觉得不够用，用现在的话来说就是小而美。
 
-![grand-hotel](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-10-16-taiwan-travel/_____September_14__2014_at_0319PM.jpg) 
+![grand-hotel]({{site.url}}/assets/blog_img/2014-10-16-taiwan-travel/September_14__2014_at_0319PM.jpg) 
 
 在台北无意间还看到了**台湾圆山大饭店**，之前是不知道饭店的名字，之前只是在李安导演的《饮食男女》中的有过印象；突然出现在眼前有一种现实和电影的交错感。 
 
 
 ### 垦丁 & 机车
 
-![kendingdog](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-10-16-taiwan-travel/_September_15__2014_at_0421PM.jpg) 
+![kendingdog]({{site.url}}/assets/blog_img/2014-10-16-taiwan-travel/September_15__2014_at_0421PM.jpg) 
 
 *垦丁给人的感觉是放松和懒散的*
 
@@ -39,7 +39,7 @@ categories: [thought]
 
 不知道是因为大家进过在台北的几天都跟熟悉了，还是什么原因，在垦丁我们玩的更开。相比台北，垦丁给人的感觉更放松。
 
-![sea](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-10-16-taiwan-travel/_September_16__2014_at_0305PM.jpg) 
+![sea]({{site.url}}/assets/blog_img/2014-10-16-taiwan-travel/September_16__2014_at_0305PM.jpg) 
 
 垦丁的海倒是没有给我留下太多的影响，一方面可能是因为台风的原因没有能够去海边走走（虽然去潜水了）。另一方面很多时候看到大海都是在大巴车上，即使的中途下车，也早过了最初的兴奋；来之前想着可以骑机车在沿着海边的马路飞奔，到也是“我猜中的前头，可是猜不到结局”（我们是晚上沿着海边马路飞奔，几乎看不到海，偶尔可以白色的浪花...）
 

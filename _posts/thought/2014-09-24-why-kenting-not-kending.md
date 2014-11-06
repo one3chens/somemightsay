@@ -8,7 +8,7 @@ categories: [thought]
 
 ---
 
-![Kenting](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-09-24-why-kenting-not-kending/_September_15__2014_at_0817PM.jpg) 
+![Kenting]({{site.url}}/assets/blog_img/2014-09-24-why-kenting-not-kending/September_15__2014_at_0817PM.jpg) 
 
 ### Why Kenting 
 

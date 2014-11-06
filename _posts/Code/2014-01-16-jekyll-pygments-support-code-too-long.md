@@ -8,7 +8,7 @@ categories: [code]
 
 ---
 
-![before](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-jekyll-pygments-support-code-too-long/highlight_raw.png)
+![before]({{site.url}}/assets/blog_img/2014-01-16-jekyll-pygments-support-code-too-long/highlight_raw.png)
 
 最近在用Markdown写文章的时候遇到写代码块的时候遇到当代码过长显示不完成的情况
 
@@ -18,7 +18,7 @@ categories: [code]
 pre { white-space: pre; overflow: auto; }
 ```
 
-![after](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-jekyll-pygments-support-code-too-long/highlight_css.png)
+![after]({{site.url}}/assets/blog_img/2014-01-16-jekyll-pygments-support-code-too-long/highlight_css.png)
 
 ### Reference
 [How to support scrolling when using pygments with Jekyll][ref_sof]

@@ -10,7 +10,7 @@ categories: [thought]
 
 明天就要去和同学合租了，准确的说是今天，因为现在已经过了零点。12点之前就躺下的我，刚刚却一直在床上翻来覆去谁不着。大概是因为明天就要去实习，很是兴奋，心里也不断乱回想着一些事。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-09-09-start-internship/get_internship.jpg)
+![Text]({{site.url}}/assets/blog_img/2012-09-09-start-internship/get_internship.jpg)
 
 <!-- more -->
 

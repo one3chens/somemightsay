@@ -42,4 +42,4 @@ categories: [thought]
 
 今天下午去接弟弟妹妹的路上，一个人，一直感叹，晒了一下午的太阳，看了点点书，就有那么多的感受，体会。这是在学校里面无法给我的。并不是看了点点书就突然有了感触，而是有了时间给自己思考。有时候当我们无法前进，不知道向哪前进的时候，就是该静下来自己想想的时候，这一点都不算是浪费时间。不要让那些重复无聊的事占满你的脑袋，像奴隶一样没有思考的做的重复无意义的事！
 
-[^1]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-11-19-leave-some-time-to-think/theink_by_igreeny-d5gxx2h.jpg
+[^1]: {{site.url}}/assets/blog_img/2011-11-19-leave-some-time-to-think/theink_by_igreeny-d5gxx2h.jpg

@@ -8,7 +8,7 @@ categories: [thought]
 
 ---
 
-![Fuck](https://dl.dropboxusercontent.com/u/24683331/blog_img/2011-10-01-Fuck-the-record/middle-finger-gesture.gif)
+![Fuck]({{site.url}}/assets/blog_img/2011-10-01-Fuck-the-record/middle-finger-gesture.gif)
 
 之前在一个免费的主机上写博客，但是暑假期间发现已经无法访问，而且更悲剧的是我一点都没有备份。虽然是免费的主机，肯定不稳定，但是在那个网站给出的理由是我处于一个高危的国家，所以封掉了我的帐户。暑假也没有管了。
 

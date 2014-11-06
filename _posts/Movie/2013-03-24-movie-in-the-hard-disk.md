@@ -817,6 +817,6 @@ The.Messages.2009.720p.BluRay.x264.DTS-WiKi.mkv
 因为最近在学习Markdown，所以这篇文章我是先用Markdown写的，再通过HTML修改而成的！嘻嘻~
 
 
-[^1]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2013-03-24-movie-in-the-hard-disk/movie_9.jpg
-[^2]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2013-03-24-movie-in-the-hard-disk/movie_hard_disk_1.jpg
-[^3]: https://dl.dropboxusercontent.com/u/24683331/blog_img/2013-03-24-movie-in-the-hard-disk/movie_hard_disk_2.jpg
+[^1]: {{site.url}}/assets/blog_img/2013-03-24-movie-in-the-hard-disk/movie_9.jpg
+[^2]: {{site.url}}/assets/blog_img/2013-03-24-movie-in-the-hard-disk/movie_hard_disk_1.jpg
+[^3]: {{site.url}}/assets/blog_img/2013-03-24-movie-in-the-hard-disk/movie_hard_disk_2.jpg

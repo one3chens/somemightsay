@@ -8,7 +8,7 @@ categories: [thought]
 
 ---
 
-![You are not alone](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-07-11-be-friend-with-time-excerpt/matrix.jpg) 
+![You are not alone]({{site.url}}/assets/blog_img/2014-07-11-be-friend-with-time-excerpt/matrix.jpg) 
 
 *书中多次提到『相信我，你并不孤独』*
 

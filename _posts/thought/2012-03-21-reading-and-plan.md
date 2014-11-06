@@ -10,7 +10,7 @@ categories: [thought]
 
 上周，看到月光博客里的一篇文章：[国外程序员推荐：每个程序员都应读的书](http://www.williamlong.info/archives/3028.html),也是 [StackOverflow](http://stackoverflow.com/) 上的[一个问题](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)，正好上周就把之前买的[几本书](http://somemightsay.org/post/recent_events)看完了，所以选了几本专业性不是很强，基础的书来看。也不知道适不适合现阶段的我看，反正看这种书没什么坏处，相比班上同学看的那些网络小说要好吧。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-03-21-reading-and-plan/alexey-baydakov-8.jpg)
+![Text]({{site.url}}/assets/blog_img/2012-03-21-reading-and-plan/alexey-baydakov-8.jpg)
 
 <!-- more -->
 
@@ -24,7 +24,7 @@ categories: [thought]
 
 文章里推荐的第一本书是早已听说过的[《代码大全》](http://www.amazon.cn/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8-%E5%8F%B2%E8%92%82%E5%A4%AB%E2%80%A2%E8%BF%88%E5%85%8B%E5%BA%B7%E5%A5%88%E5%B0%94/dp/B0061XKRXA/ref=sr_1_1?s=books&ie=UTF8&qid=1332295828&sr=1-1)，同学有一本，很厚，感觉自己现在还啃不下那么厚的书，更何况也没有什么实际的项目经验。[《程序员修炼之道》](http://www.amazon.cn/gp/product/B004GV08CY/tag=vastwork-23&linkCode=as2&camp=536&creative=3200&creativeASIN=B004GV08CY#)和[《计算机程序的构造和解释》](http://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A/dp/B0011AP7RY?tag=vastwork-23#) 看简介都还算合适吧，就是[《程序员修炼之道:从小工到专家》](http://www.amazon.cn/gp/product/B004GV08CY/tag=vastwork-23&linkCode=as2&camp=536&creative=3200&creativeASIN=B004GV08CY#)这本书的翻译名字有点糟蹋了原书，英文原名是[《The Pragmatic Programmer: From Journeyman to Master》](http://www.amazon.cn/The-Pragmatic-Programmer-From-Journeyman-to-Master-Thomas-David/dp/020161622X/ref=sr_1_3?s=books&ie=UTF8&qid=1332298670&sr=1-3)，另一方面排名也考前，总有它特别之处吧，遂加入购物车。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-03-21-reading-and-plan/zen.jpg)
+![Text]({{site.url}}/assets/blog_img/2012-03-21-reading-and-plan/zen.jpg)
 
 《禅与摩托车维修艺术 / Zen and the Art of Motorcycle Maintenance》 这本书早就在我被人推荐书的清单里面了，最早是在阮一峰的博客里推荐的，这里。之前看过他翻译的一本书《黑客与画家》，这次又被推荐了一次，所以就加上买了。
 
@@ -41,7 +41,7 @@ categories: [thought]
 
 大概我就是喜欢叙述简单的书吧，百分百女孩，里面除了写百分百女孩的那篇，其他印象都不深。而且像短篇小说这种东西一下子就看完十八篇也是不可取的吧。
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2012-03-21-reading-and-plan/img_0798.jpg)
+![Text]({{site.url}}/assets/blog_img/2012-03-21-reading-and-plan/img_0798.jpg)
 
 接着开始看余华的《十个词汇里的中国》，这本书之前借给了W的妈妈，很巧的是也是上周末的时候，还给了我，同其它书堆在了一起。
 

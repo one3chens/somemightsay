@@ -14,18 +14,18 @@ categories: [code]
 
 ### Windows下右键关联及图标
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/context-menu-2.png)  
+![Text]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/context-menu-2.png)  
 
 右键关联 : 添加 `HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text\command` 值为 `..\Sublime Text 3\sublime_text.exe %1`
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/context-menu-1.png)
+![Text]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/context-menu-1.png)
 
 图标 : 在新建字符串值命名为 `Icon`，值为 `..\Sublime Text 3\sublime_text.exe,0`
 
 
 ### 中文乱码问题
 
-![test_cn](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/cn_test.png)  
+![test_cn]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/cn_test.png)  
 
 #### 安装 Package Control
 
@@ -37,26 +37,26 @@ Press `Ctrl + ~` to open the command line, and then enter the following line of 
 
 #### 安装 ConvertToUTF8 
 
-![Install_pk](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/Install_pk.png)  
+![Install_pk]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/Install_pk.png)  
 
 Press `Ctrl + Shift + P` (Windows) to open the universal search box, then enter the install package return, this time will load a list of all packges. 
 
-![ConvertToUTF8](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/ConvertToUTF8.png)  
+![ConvertToUTF8]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/ConvertToUTF8.png)  
 
 See the list after re-enter ConvertToUTF8 Enter, it will download and install this package.
 
 再次打开之前的文件会显示提示，选择即可。
 
-![select_cn](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/select_cn.png)  
+![select_cn]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/select_cn.png)  
 
 
 ### IME不跟随问题
 
-![IME](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/ime.png)
+![IME]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/ime.png)
 
 使用Package Control安装IMESupport
 
-![IMESupport](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/IMESupport.png)
+![IMESupport]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/IMESupport.png)
 
 使用后输入法就可以正常的跟随了。
 
@@ -67,7 +67,7 @@ See the list after re-enter ConvertToUTF8 Enter, it will download and install th
 
 Press `Ctrl + Shift + P` (Windows) to open the universal search box, 
 
-![User](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/user.png)
+![User]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/user.png)
 
 输入 `user` 选中 `Preference: Setting - User` 
 
@@ -84,11 +84,11 @@ Press `Ctrl + Shift + P` (Windows) to open the universal search box,
 
 配置前后的效果，Windows平台下分辨率不是很高的，还是非村线字体看起舒服一点
 
-![font_raw](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/font_raw.png)
+![font_raw]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/font_raw.png)
 
 <!-- more -->
 
-![font_set](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-16-sublime-text-3/font_set.png)
+![font_set]({{site.url}}/assets/blog_img/2014-01-16-sublime-text-3/font_set.png)
 
 ### Reference
 

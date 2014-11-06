@@ -8,7 +8,7 @@ categories: [code]
 
 ---
 
-![View](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-17-sublime-text-with-markdown/preview_md.png) 
+![View]({{site.url}}/assets/blog_img/2014-01-17-sublime-text-with-markdown/preview_md.png) 
 
 在接触Markdown之后，博客上的文章就完全是用Markdown格式写的了。之前的博客是用Wordpress搭建的，要想备份自己的文章是一件很麻烦的事情，备份后很多是用的图片都是不能用的，即使备份数据库，对于一般的用户简直就是噩梦。
 
@@ -31,19 +31,19 @@ Package
 
 可以看看官方的对比截图：
 
-![Before](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-17-sublime-text-with-markdown/markdown-ex-raw.png) 
+![Before]({{site.url}}/assets/blog_img/2014-01-17-sublime-text-with-markdown/markdown-ex-raw.png) 
 
 <!-- more -->
 
-![After](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-17-sublime-text-with-markdown/markdown-ex-after.png) 
+![After]({{site.url}}/assets/blog_img/2014-01-17-sublime-text-with-markdown/markdown-ex-after.png) 
 
 `Markdown Extended` 支持YAML Front Matter
 
-![Before](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-17-sublime-text-with-markdown/ymal_raw.png) 
+![Before]({{site.url}}/assets/blog_img/2014-01-17-sublime-text-with-markdown/ymal_raw.png) 
 
 <!-- more -->
 
-![After](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-01-17-sublime-text-with-markdown/ymal_after.png) 
+![After]({{site.url}}/assets/blog_img/2014-01-17-sublime-text-with-markdown/ymal_after.png) 
 
 ### Monokai Extended
 

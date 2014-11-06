@@ -8,15 +8,15 @@ categories: [movie]
 
 ---
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B00_20_29%5D%5B20140819-235903-0%5D.PNG) 
+![Text]({{site.url}}/assets/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B00_20_29%5D%5B20140819-235903-0%5D.PNG) 
 
 <!-- more -->
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B00_32_43%5D%5B20140820-001131-4%5D.PNG)
+![Text]({{site.url}}/assets/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B00_32_43%5D%5B20140820-001131-4%5D.PNG)
 
 <!-- more -->
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B00_46_22%5D%5B20140820-002510-8%5D.PNG)
+![Text]({{site.url}}/assets/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B00_46_22%5D%5B20140820-002510-8%5D.PNG)
 
 > Are you married?
 > Yes, I am.
@@ -26,8 +26,8 @@ categories: [movie]
 > Yes. Very much. What's wrong?
 > Nothing. I was just hoping you're married to me. 
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B01_25_53%5D%5B20140820-010440-1%5D.PNG)
+![Text]({{site.url}}/assets/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B01_25_53%5D%5B20140820-010440-1%5D.PNG)
 
 <!-- more -->
 
-![Text](https://dl.dropboxusercontent.com/u/24683331/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B01_34_27%5D%5B20140820-011314-3%5D.PNG) 
+![Text]({{site.url}}/assets/blog_img/2014-08-20-The-Time-Travelers-Wife/The.Time.Travel%5B01_34_27%5D%5B20140820-011314-3%5D.PNG) 
