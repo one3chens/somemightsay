@@ -2,7 +2,7 @@
 
 layout: post
 date: 14-11-06 22:44:39
-title: Build blog with GitHub, GitCafe & DNSPod
+title: Build blog with GitHub, GitCafe, DNSPod
 tags: [blog, jekyll, gitcafe, github, dropbox, dnspod]
 categories: [code]
 
