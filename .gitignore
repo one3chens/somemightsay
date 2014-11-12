@@ -1,2 +1,4 @@
 _site
 _private
+*.sublime-project
+*.sublime-workspace
