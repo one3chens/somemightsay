@@ -19,7 +19,7 @@ OutputDebugString(PChar(FloatToStr(Now)));
 
 ### Principle
 
-整数部分是代表距[Base Date][^4]的天数，在Object Pascal中，`Base Date` 为December 30, 1899，所以如果你运行下面的代码可以得到为零的浮点数
+整数部分是代表距 `Base Date` 的天数，在Object Pascal中，`Base Date` 为December 30, 1899，所以如果你运行下面的代码可以得到为零的浮点数
 
 
 ```pascal
@@ -41,7 +41,7 @@ end
 
 
 ### Base date
-这个 `Base date` 在不同的软件，不同的系统中都是不一样的，具体可以参考[Wiki][^4]
+这个 `Base date` 在不同的软件，不同的系统中都是不一样的。
 
 ### Reference
 
