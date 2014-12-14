@@ -3,7 +3,7 @@
 layout: post
 title: Two Days One Night
 date: 14-12-14 20:02:37
-tags: [lmovies, love]
+tags: [movies, love]
 categories: [movie]
 
 ---
