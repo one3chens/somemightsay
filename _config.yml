@@ -1,3 +1,25 @@
-name: Some Might Say
-markdown: Redcarpet
-highlighter: pygments
+markdown: redcarpet
+highlighter: true
+permalink: /:year/:month/:day/:title.html
+name: "Some Might Say"
+
+author: "hanlin"
+atom-baseurl: "http://hanlin.ch"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: Instagram
+    class: fa fa-instagram
+    href: http://instagram.com/onion7878/
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
+
