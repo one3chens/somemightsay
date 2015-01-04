@@ -3,7 +3,7 @@
 layout: post
 date: 14-07-27 22:03:50
 title: The Secret Life of Walter Mitty
-tags: [movie, dream, life, screenshot]
+tags: [film, dream, life, screenshot]
 categories: [movie]
 
 ---

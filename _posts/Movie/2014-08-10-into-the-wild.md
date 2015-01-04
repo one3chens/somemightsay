@@ -3,7 +3,7 @@
 layout: post
 title: Into the wild
 date: 14-08-18 11:00:47
-tags: [freedom, movies, extremism]
+tags: [film, freedom, extremism]
 categories: [movie]
 
 ---

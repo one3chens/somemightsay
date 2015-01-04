@@ -3,7 +3,7 @@
 layout: post
 title: Legends Of The Fall
 date: 14-11-16 22:36:39
-tags: [family, movies, war, freedom]
+tags: [film, family, war, freedom]
 categories: [movie]
 
 ---

@@ -3,7 +3,7 @@
 layout: post
 title: 수상한 그녀
 date: 14-12-22 23:46:13
-tags: [love, comedy, music]
+tags: [film, love, comedy, music]
 categories: [movie]
 
 ---

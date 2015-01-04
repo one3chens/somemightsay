@@ -3,7 +3,7 @@
 layout: post
 title: August Osage County
 date: 14-11-05 23:59:58
-tags: [family, movies]
+tags: [film, family]
 categories: [movie]
 
 ---

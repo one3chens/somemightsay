@@ -3,7 +3,7 @@
 layout: post
 title: The Equalizer
 date: 14-12-30 23:23:31
-tags: [thriller, crime, action]
+tags: [film, thriller, crime, action]
 categories: [movie]
 
 ---

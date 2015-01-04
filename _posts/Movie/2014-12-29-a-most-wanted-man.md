@@ -3,7 +3,7 @@
 layout: post
 title: A Most Wanted Man
 date: 14-12-29 23:19:56
-tags: [thriller]
+tags: [film, thriller]
 categories: [movie]
 
 ---
