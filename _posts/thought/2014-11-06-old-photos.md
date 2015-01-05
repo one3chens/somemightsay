@@ -2,7 +2,7 @@
 
 layout: post
 title: Old Photos
-date: 15-01-06 20:02:40
+date: 15-01-05 20:02:40
 tags: [phote, memory, old, precious]
 categories: [thought]
 
@@ -10,13 +10,15 @@ categories: [thought]
 
 ![Text]({{site.url}}/assets/blog_img/2015-01-06-old-photos/IMG_9182.JPG)
 
-元旦回去因为一些原因整理了很多老照片，并把它们全都翻拍了下来保存，过程不断被些照片触动。
+**( °_ °)**
 
-另外这个雪人 **( °_ °)** 实在太有喜感了。 
+毫无违和感的雪人
 
 <!-- more -->
 
 ![Text]({{site.url}}/assets/blog_img/2015-01-06-old-photos/IMG_9208.JPG)
+
+元旦回去因为一些原因整理了很多老照片，并把它们全都翻拍了下来保存，过程不断被些照片触动。 
 
 ![Text]({{site.url}}/assets/blog_img/2015-01-06-old-photos/IMG_9294.JPG) 
 
