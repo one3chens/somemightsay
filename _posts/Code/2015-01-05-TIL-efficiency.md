@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: TIL Efficiency
+title: TIL &#58 Efficiency
 date: 15-01-05 15:56:07
 tags: [code, xkcd, comic, til]
 categories: [code]
