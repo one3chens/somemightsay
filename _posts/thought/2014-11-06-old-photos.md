@@ -3,7 +3,7 @@
 layout: post
 title: Old Photos
 date: 15-01-06 20:02:40
-tags: [phote, memory, old]
+tags: [phote, memory, old, precious]
 categories: [thought]
 
 ---
