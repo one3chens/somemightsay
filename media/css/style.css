@@ -133,7 +133,7 @@ ul.listing {
     ul.listing li.listing-seperator {
       font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
       ul.listing li.listing-seperator:before {
-        content: "\00BB\00A0 ";
+        content: "\00BB\00A0";
         color: #ccc; }
 
 article {
