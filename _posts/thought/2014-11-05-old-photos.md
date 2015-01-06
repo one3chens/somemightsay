@@ -22,7 +22,7 @@ categories: [thought]
 
 ![Text]({{site.url}}/assets/blog_img/2015-01-05-old-photos/IMG_9294.JPG) 
 
-字体也是重点，而已应该是再洗照片的时候直接弄上去的。
+字体也是重点，而且应该是再洗照片的时候直接弄上去的。
 
 ![Text]({{site.url}}/assets/blog_img/2015-01-05-old-photos/IMG_9307.JPG) 
 
