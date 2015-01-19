@@ -71,7 +71,7 @@ function Exp(X : Double) : Double;
 const
   K = 2;
 begin
-	Result := 1 - Power(K, -X);
+  Result := 1 - Power(K, -X);
 end;
 ```
 
