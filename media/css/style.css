@@ -60,7 +60,7 @@ blockquote {
 
 pre code {
   background-color: #ECECEC;
-  border-left: 0.5em #CCC solid;
+  border-left: 0.5em #009bdf solid;
   padding: 5px 0px 5px 1em;
   /*border: 1px dashed #eee !important;*/
   /*border-color: #e0e0e0 !important;*/
@@ -71,7 +71,8 @@ pre code {
   overflow: auto; }  
 
 code {
-  background-color: #ECECEC !important;
+  background-color: #1E2325 !important;
+  color: #E6E6E6;
   padding: 2px 5px;
   /*border: 1px dashed #e0e0e0;*/
   font-family: "Consolas", "Panic Sans", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo","Ubuntu", monospace; }
