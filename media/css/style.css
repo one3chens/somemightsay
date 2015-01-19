@@ -74,7 +74,7 @@ code {
   background-color: #ECECEC !important;
   padding: 2px 5px;
   /*border: 1px dashed #e0e0e0;*/
-  font-family: "Consolas", "Panic Sans", "Consolas", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo","Ubuntu", monospace; }
+  font-family: "Consolas", "Panic Sans", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo","Ubuntu", monospace; }
 
 h1, h2 {
   font-size: 1.4em; }
