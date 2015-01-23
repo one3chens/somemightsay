@@ -218,3 +218,8 @@ end;
 ![optm5]({{site.url}}/assets/blog_img/2015-01-12-lifelike-fake-progress-bar/optm5.gif)
 
 这样差不多看起来就像一个正常点的**假**进度条了。
+
+## Reference
+
+- [Exponential_function](http://en.wikipedia.org/wiki/Exponential_function)
+- [function curve](https://www.desmos.com/calculator/odwj10a016)
