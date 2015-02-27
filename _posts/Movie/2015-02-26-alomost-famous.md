@@ -3,7 +3,7 @@
 layout: post
 date: 15-02-26 23:28:07
 title: Almost Famous
-tags: [film, music, drama]
+tags: [film, music, drama, love]
 categories: [movie]
 
 ---
