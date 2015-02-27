@@ -10,7 +10,7 @@ categories: [movie]
 
 ![Text]({{site.url}}/assets/blog_img/2015-02-26-alomost-famous/Almost.Famous.Extended.Cut.Blu-ray.RE.720.X264.DD51.F%40Silu.mkv_20150226_223651.765.png) 
 
-> Be honest, and unmerciful.
+> Experience it. Enjoy it. Just don't fall for it.
 
 <!-- more -->
 
