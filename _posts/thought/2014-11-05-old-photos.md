@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Old Photos
+title: 老照片
 date: 15-01-05 20:02:40
 tags: [phote, memory, old, precious]
 categories: [thought]
