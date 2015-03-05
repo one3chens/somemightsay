@@ -8,11 +8,14 @@ atom-baseurl: "http://hanlin.ch"
 
 navigations:
   - title: Archive
-    class: fa fa-list-ul
+    class: fa fa-archive
     href: /archive.html
   - title: Tags
     class: fa fa-tags
     href: /tags.html
+  - title: Again
+    class: fa fa-bookmark
+    href: /again.html    
   - title: Instagram
     class: fa fa-instagram
     href: http://instagram.com/onion7878/
