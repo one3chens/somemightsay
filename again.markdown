@@ -36,9 +36,6 @@ layout: page
   夏天也可以吃火锅 <a href="http://ipn.li/weizhidao/" title="味之道">#味之道</a>
   </li>
   <li class="listing-seperator">
-  作为公共空间的茶餐厅 <a href="http://ipn.li/weizhidao/" title="味之道">#味之道</a>
-  </li>
-  <li class="listing-seperator">
   汪建伟:「不靠谱是个伟大的词。」 <a href="http://ipn.li/popdispatch/" title="流行通信">#流行通信</a>
   </li>
   <li class="listing-seperator">
@@ -59,7 +56,6 @@ layout: page
   <li class="listing-seperator">
   走进莆田系，私立医院黑幕大起底 <a href="http://ipn.li/taiyilaile/" title="太医来了">#太医来了</a>
   </li>  
-
   <li class="listing-seperator">
   和七牛的许式伟聊云存储以及做有追求的程序员 <a href="http://teahour.fm/" title="teahour">#teahour</a>
   </li>
