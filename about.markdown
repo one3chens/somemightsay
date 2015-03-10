@@ -9,7 +9,7 @@ a
 
 who involved in 
 
-> [github](https://github.com/onion7878)
+> [GitHub](https://github.com/onion7878)
 
 mail 
 
@@ -17,6 +17,6 @@ mail
 
 or follow 
 
-> [onion](http://instagram.com/onion7878/)
+> [Instagram](http://instagram.com/onion7878/), [Twitter](https://twitter.com/4fen)
 
 to reach me

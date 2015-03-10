@@ -19,6 +19,9 @@ navigations:
   - title: Instagram
     class: fa fa-instagram
     href: http://instagram.com/onion7878/
+  - title: Twitter
+    class: fa fa-twitter
+    href: https://twitter.com/4fen   
   - title: About
     class: fa fa-user
     href: /about.html
