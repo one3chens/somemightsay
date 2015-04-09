@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title: Linux SSD Optimization
+title: "NOTE : Linux SSD Optimization"
 date: 15-04-08 15:32:06
-tags: [linux, ssd, optimization]
+tags: [linux, ssd, optimization, note]
 categories: [code]
 
 ---
