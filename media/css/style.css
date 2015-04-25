@@ -46,7 +46,6 @@ blockquote {
   background-color: #ECECEC;
   border-left: 0.5em #CCC solid;
   padding: 5px 0px 5px 1em;
-  margin: 1em 0;
   font-size: 13px;
   line-height: 1.6;
   display: block;
@@ -58,6 +57,7 @@ pre code {
   padding: 5px 0px 5px 1em;
   font-size: 13px;
   line-height: 1.6;
+  margin-bottom: 1em;
   display: block;
   overflow: auto; }  
 
@@ -67,8 +67,34 @@ code {
   padding: 2px 5px;
   font-family: "Consolas", "Panic Sans", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo","Ubuntu", monospace; }
 
-h1, h2 {
-  font-size: 1.4em; }
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.4em;
+  
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-bottom: 10px;
+}
 
 time {
   font-size: 13px;
@@ -129,9 +155,13 @@ ul.listing {
 article {
   margin: 2em 0; }
   article blockquote {
-    padding: .7em }
+    margin-bottom: 1em; }
   article p {
-    padding: .7em 0; }
+    margin-bottom: 1em; }
+  article blockquote p {
+    margin-top: .5em;
+    margin-bottom: .5em;
+  }   
   article .title {
     font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
     article .title header #header h1 a, header #header h1 article .title a, article .title a, article .title .meta .tags a, article .meta .tags .title a {
