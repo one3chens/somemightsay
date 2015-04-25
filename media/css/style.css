@@ -10,7 +10,7 @@
  * |\.|._)._)
  * --------------------------------- */
 @import url(/media/fonts/telex-regular.css);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:300);
+
 * {
   margin: 0;
   padding: 0; }
@@ -207,20 +207,3 @@ footer {
     color: #cccccc; }
     footer a:hover, footer header #header h1 a:hover, header #header h1 footer a:hover, footer article .meta .tags a:hover, article .meta .tags footer a:hover {
       color: #999999; }
-
-#tag_cloud {
-  margin-bottom: 1em; }
-
-.gist {
-  font-size: 13px;
-  line-height: 1.6; }
-
-.like-wrapper {
-  color: #999; }
-  .like-wrapper .like-button, .like-wrapper .unlike-button {
-    font-family: "FontAwesome";
-    padding-right: 5px; }
-  .like-wrapper .like-button:hover {
-    color: #dd1144; }
-  .like-wrapper .like-button.liked:hover {
-    color: #999; }
