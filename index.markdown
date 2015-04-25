@@ -31,6 +31,7 @@ layout: default
     </article>
     {% endfor %}
   </ul>
+  <hr>
   <ul class="listing main-listing">
     <li class="listing-seperator">Happend earlier</i>
       {% for post in site.posts offset:1 limit:10 %}
