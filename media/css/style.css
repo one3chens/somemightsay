@@ -42,26 +42,31 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
 blockquote {
   background-color: #ECECEC;
   border-left: 0.5em #CCC solid;
-  padding: 5px 0px 5px 1em;
+  padding: 5px 5px 5px 11px;
   font-size: 13px;
   line-height: 1.6;
   display: block;
   overflow: auto; }
 
 pre code {
-  background-color: #ECECEC;
+  background-color: #1E2325;
   border-left: 0.5em #009bdf solid;
-  padding: 5px 0px 5px 1em;
+  padding: 5px 5px 5px 11px;
   font-size: 13px;
   line-height: 1.6;
   margin-bottom: 1em;
   display: block;
   overflow: auto; }  
 
-code {
-  background-color: #1E2325 !important;
-  color: #E6E6E6;
+p code {
+  background-color: rgba(204, 204, 204, 0.5);
   padding: 2px 5px;
+}  
+
+code {
+/*  background-color: #1E2325 !important;
+  color: #E6E6E6;
+  padding: 2px 5px;*/
   font-family: "Consolas", "Panic Sans", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo","Ubuntu", monospace; }
 
 h1 {
