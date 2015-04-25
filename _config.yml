@@ -22,9 +22,6 @@ navigations:
   - title: Twitter
     class: fa fa-twitter
     href: https://twitter.com/4fen   
-  - title: About
-    class: fa fa-user
-    href: /about.html
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
