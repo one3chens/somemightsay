@@ -36,10 +36,6 @@ hr {
 .center {
   text-align: center; }
 
-::selection {
-  color: #fff;
-  background-color: #333; }
-
 a, header #header h1 a, article .title a, article .meta .tags a, article .divider a {
   text-decoration: none;
   color: #0075c9; }
