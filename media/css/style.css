@@ -24,9 +24,6 @@ body {
 ol, ul {
   list-style-position: inside; }
 
-li {
-  padding: .2em 0; }
-
 hr {
   width: 4em;
   border: none;
