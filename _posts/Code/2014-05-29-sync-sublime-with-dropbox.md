@@ -57,4 +57,4 @@ ln -s ~/Dropbox/Sublime/User
 
 ### Reference
 
-[Package Control Sync](https://sublime.wbond.net/docs/syncing)
+- [Package Control Sync](https://sublime.wbond.net/docs/syncing)

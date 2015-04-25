@@ -39,6 +39,6 @@ stat -c %i /usr/bin/zsh
 
 ## Reference
 
-[How do I change my default shell from bash to zsh?](http://superuser.com/questions/231735/how-do-i-change-my-default-shell-from-bash-to-zsh)
-[zsh is in /usr/bin, but also in /bin, what is the difference?](http://unix.stackexchange.com/questions/71236/zsh-is-in-usr-bin-but-also-in-bin-what-is-the-difference)
-[which (Unix)](http://en.wikipedia.org/wiki/Which_(Unix))
+- [How do I change my default shell from bash to zsh?](http://superuser.com/questions/231735/how-do-i-change-my-default-shell-from-bash-to-zsh)
+- [zsh is in /usr/bin, but also in /bin, what is the difference?](http://unix.stackexchange.com/questions/71236/zsh-is-in-usr-bin-but-also-in-bin-what-is-the-difference)
+- [which (Unix)](http://en.wikipedia.org/wiki/Which_(Unix))

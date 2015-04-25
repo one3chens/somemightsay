@@ -21,6 +21,7 @@ pre { white-space: pre; overflow: auto; }
 ![after]({{site.url}}/assets/blog_img/2014-01-16-jekyll-pygments-support-code-too-long/highlight_css.png)
 
 ### Reference
-[How to support scrolling when using pygments with Jekyll][ref_sof]
+
+- [How to support scrolling when using pygments with Jekyll][ref_sof]
 
 [ref_sof]: http://stackoverflow.com/questions/11093233/how-to-support-scrolling-when-using-pygments-with-jekyll

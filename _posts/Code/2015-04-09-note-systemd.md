@@ -60,5 +60,5 @@ systemctl daemon-reload
 
 ## Reference
 
-[systemd System and Service Manager](http://freedesktop.org/wiki/Software/systemd/)
-[systemd - ArchWiki](https://wiki.archlinux.org/index.php/Systemd)
+- [systemd System and Service Manager](http://freedesktop.org/wiki/Software/systemd/)
+- [systemd - ArchWiki](https://wiki.archlinux.org/index.php/Systemd)

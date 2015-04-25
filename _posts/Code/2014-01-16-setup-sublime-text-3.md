@@ -92,11 +92,9 @@ Press `Ctrl + Shift + P` (Windows) to open the universal search box,
 
 ### Reference
 
-[Sublime Text 2/3 GBK Encoding Support and Input Chinese with ibus on Ubuntu][ref_st_cn]
-
-[Windows 平台下 Sublime Text 2/3 支持中文输入法候选词窗口跟随][ref_ime]
-
-[Font Settings][ref_font]
+- [Sublime Text 2/3 GBK Encoding Support and Input Chinese with ibus on Ubuntu][ref_st_cn]
+- [Windows 平台下 Sublime Text 2/3 支持中文输入法候选词窗口跟随][ref_ime]
+- [Font Settings][ref_font]
 
 [ref_ime]: http://radarnyan.moe9th.com/index.php/2013/02/windows-%E5%B9%B3%E5%8F%B0%E4%B8%8B-sublime-text-2-%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95%E5%80%99%E9%80%89%E8%AF%8D%E7%AA%97%E5%8F%A3%E8%B7%9F%E9%9A%8F/
 [ref_st_cn]: http://www.mrxuri.com/2013/04/28/sublime-text-gbk-support-and-input-chinese-with-ibus-on-ubuntu.html

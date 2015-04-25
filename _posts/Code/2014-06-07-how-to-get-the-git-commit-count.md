@@ -27,5 +27,6 @@ git shortlog | grep -E '^[ ]+\w+' | wc -l
 more way in reference
 
 ### Reference
-[How to get the git commit count?](https://stackoverflow.com/questions/677436/how-to-get-the-git-commit-count)
+
+- [How to get the git commit count?](https://stackoverflow.com/questions/677436/how-to-get-the-git-commit-count)
 

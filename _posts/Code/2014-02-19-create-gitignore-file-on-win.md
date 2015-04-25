@@ -21,4 +21,4 @@ categories: [code]
 
 ### Reference
 
-[How to create .gitignore file](http://stackoverflow.com/a/12298593/724897)
+- [How to create .gitignore file](http://stackoverflow.com/a/12298593/724897)

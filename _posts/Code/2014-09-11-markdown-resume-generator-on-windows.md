@@ -50,4 +50,4 @@ php md2resume pdf sample.md outputpath
 
 ### Reference
 
-[Markdown Resume Generator](https://github.com/there4/markdown-resume)
+- [Markdown Resume Generator](https://github.com/there4/markdown-resume)

@@ -45,10 +45,7 @@ end
 
 ### Reference
 
-[TDateTime Class](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/delphivclwin32/System__TDateTime.html)
-
-[Dates And Times In Excel](http://www.cpearson.com/excel/datetime.htm)
-
-[What is story behind December 30, 1899 as base date?](http://social.msdn.microsoft.com/Forums/en-US/f1eef5fe-ef5e-4ab6-9d92-0998d3fa6e14/what-is-story-behind-december-30-1899-as-base-date)
-
-[Epoch (reference date)](http://en.wikipedia.org/wiki/Epoch_(reference_date)#Computing)
+- [TDateTime Class](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/delphivclwin32/System__TDateTime.html)
+- [Dates And Times In Excel](http://www.cpearson.com/excel/datetime.htm)
+- [What is story behind December 30, 1899 as base date?](http://social.msdn.microsoft.com/Forums/en-US/f1eef5fe-ef5e-4ab6-9d92-0998d3fa6e14/what-is-story-behind-december-30-1899-as-base-date)
+- [Epoch (reference date)](http://en.wikipedia.org/wiki/Epoch_(reference_date)#Computing)

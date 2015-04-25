@@ -61,4 +61,4 @@ paccache -ruk0
 
 ## Reference
 
-[pacman - ArchWiki](https://wiki.archlinux.org/index.php/Pacman)
+- [pacman - ArchWiki](https://wiki.archlinux.org/index.php/Pacman)

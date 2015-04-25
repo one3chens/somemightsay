@@ -41,5 +41,5 @@ X
 
 ### Reference
 
-[Do I need to setLength a dynamic array on initialization?](http://stackoverflow.com/a/5315254/724897)
+- [Do I need to setLength a dynamic array on initialization?](http://stackoverflow.com/a/5315254/724897)
 
