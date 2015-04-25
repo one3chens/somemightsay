@@ -223,3 +223,6 @@ end;
 
 - [Exponential_function](http://en.wikipedia.org/wiki/Exponential_function)
 - [function curve](https://www.desmos.com/calculator/odwj10a016)
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
