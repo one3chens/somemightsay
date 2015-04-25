@@ -46,8 +46,6 @@ hdparm -I /dev/sda | grep TRIM
 
 ### Reference
 
-[Solid State Drives - ArchWiki](https://wiki.archlinux.org/index.php/Solid_State_Drives)
-
-[fstab - ArchWiki](https://wiki.archlinux.org/index.php/Fstab#atime_options)
-
-[固态硬盘（SSD）为什么需要TRIM？](http://www.solaluna.cn/2013/10/06/1686/)
+- [Solid State Drives - ArchWiki](https://wiki.archlinux.org/index.php/Solid_State_Drives)
+- [fstab - ArchWiki](https://wiki.archlinux.org/index.php/Fstab#atime_options)
+- [固态硬盘（SSD）为什么需要TRIM？](http://www.solaluna.cn/2013/10/06/1686/)
