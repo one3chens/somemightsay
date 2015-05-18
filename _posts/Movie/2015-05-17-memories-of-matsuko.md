@@ -10,7 +10,7 @@ categories: [movie]
 
 ![Text]({{site.url}}/assets/blog_img/2015-05-17-memories-of-matsuko/Memories.Of.Matsuko.2006.720p.BluRay.x264-CiNEFiLE.mkv_20150517_144801.739.png)
 
-> 在那一瞬間，我覺得，我回我的人生真的完了
+> 在那一瞬間，我覺得，這回我的人生真的完了
 
 <!-- more -->
 
