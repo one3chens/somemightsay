@@ -1,5 +1,3 @@
 _site
 _private
 assets/_raw_blog_img/
-*.sublime-project
-*.sublime-workspace
