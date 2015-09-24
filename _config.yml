@@ -1,31 +1,30 @@
-markdown: redcarpet
-highlighter: pygments
-permalink: /:year/:month/:day/:title.html
-name: "Some Might Say"
+# Site settings
+title: Grayscale
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-author: "hanlin"
-atom-baseurl: "http://hanlin.ch"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
 
-navigations:
-  - title: Archive
-    class: fa fa-archive
-    href: /archive.html
-  - title: Tags
-    class: fa fa-tags
-    href: /tags.html 
-  - title: Instagram
-    class: fa fa-instagram
-    href: http://instagram.com/onion7878/
-  - title: VSCO Grid
-    class: fa fa-th-large
-    href: http://onion7878.vsco.co/
-  - title: Twitter
-    class: fa fa-twitter
-    href: https://twitter.com/4fen   
-  - title: Subscribe
-    class: fa fa-rss
-    href: /atom.xml
-  - title: Wish list
-    class: fa fa-gift
-    href: /wishlist.html
+# Footer settings
+footer: Your Website
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
