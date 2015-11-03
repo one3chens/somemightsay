@@ -1,13 +1,5 @@
-# Site settings
+# http://stackoverflow.com/a/16608698/724897
+host: 0.0.0.0
+
 title: Some Might Say
-email: onion7878@gmail.com
-url: http://hanlin.ch
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+author: Hanlin
